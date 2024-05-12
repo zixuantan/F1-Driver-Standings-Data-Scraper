@@ -70,3 +70,12 @@ for year in range(2024, 1949, -1):
                        VALUES (?,?,?,?,?)''', 
                        (entry["year"], entry["name"], entry["team"], entry["country"], entry["points"])
                        )
+
+# Commit transaction
+
+conn.commit()
+
+# Close cursor and connection
+
+cursor.close()
+conn.close()
