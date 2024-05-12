@@ -23,7 +23,34 @@
 
 
 
-# EXPORTING DATA OF SQLITE DATABASE TO TXT FILE
+# # EXPORTING DATA OF SQLITE DATABASE TO TXT FILE
+
+# import sqlite3
+
+# # Connect to SQLite database
+# conn = sqlite3.connect("drivers.db")
+# cursor = conn.cursor()
+
+# # Execute an SQL SELECT query to retrieve all rows from the table
+# cursor.execute("SELECT * FROM f1_results")
+
+# # Fetch all rows from the result set
+# rows = cursor.fetchall()
+
+# # Write the contents to a text file
+# with open("f1_results.txt", "w") as f:
+#     # Write column names
+#     f.write("Year | Name | Team | Country | Points\n")
+    
+#     # Write each row of the result set
+#     for row in rows:
+#         f.write(" | ".join(str(cell) for cell in row) + "\n")
+
+# # Close cursor and connection
+# cursor.close()
+# conn.close()
+
+# PRINTING TABLE
 
 import sqlite3
 
@@ -37,14 +64,12 @@ cursor.execute("SELECT * FROM f1_results")
 # Fetch all rows from the result set
 rows = cursor.fetchall()
 
-# Write the contents to a text file
-with open("f1_results.txt", "w") as f:
-    # Write column names
-    f.write("Year | Name | Team | Country | Points\n")
-    
-    # Write each row of the result set
-    for row in rows:
-        f.write(" | ".join(str(cell) for cell in row) + "\n")
+# Print the column names
+print("Year | Name | Team | Country | Points")
+
+# Print each row of the result set
+for row in rows:
+    print(row)
 
 # Close cursor and connection
 cursor.close()
