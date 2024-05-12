@@ -63,7 +63,7 @@ for year in range(2024, 1949, -1):
     for x in range (len(names_list)):
         dict_list.append({"year": year, "name": names_list[x], "team": teams_list[x], "country": country_list[x], "points": points_list[x]}
 )
-    print(dict_list)
+    # print(dict_list)
 
     for entry in dict_list:
         cursor.execute('''INSERT INTO f1_results (year, name, team, country, points) 

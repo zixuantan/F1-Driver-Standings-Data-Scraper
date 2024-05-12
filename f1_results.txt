@@ -1,0 +1,1662 @@
+Year | Name | Team | Country | Points
+2024 Driver Standings | Max Verstappen | Red Bull Racing Honda RBPT | NED | 136
+2024 Driver Standings | Sergio Perez | Red Bull Racing Honda RBPT | MEX | 103
+2024 Driver Standings | Charles Leclerc | Ferrari | MON | 98
+2024 Driver Standings | Lando Norris | McLaren Mercedes | GBR | 83
+2024 Driver Standings | Carlos Sainz | Ferrari | ESP | 83
+2024 Driver Standings | Oscar Piastri | McLaren Mercedes | AUS | 41
+2024 Driver Standings | George Russell | Mercedes | GBR | 37
+2024 Driver Standings | Fernando Alonso | Aston Martin Aramco Mercedes | ESP | 33
+2024 Driver Standings | Lewis Hamilton | Mercedes | GBR | 27
+2024 Driver Standings | Yuki Tsunoda | RB Honda RBPT | JPN | 14
+2024 Driver Standings | Lance Stroll | Aston Martin Aramco Mercedes | CAN | 9
+2024 Driver Standings | Oliver Bearman | Ferrari | GBR | 6
+2024 Driver Standings | Nico Hulkenberg | Haas Ferrari | GER | 6
+2024 Driver Standings | Daniel Ricciardo | RB Honda RBPT | AUS | 5
+2024 Driver Standings | Esteban Ocon | Alpine Renault | FRA | 1
+2024 Driver Standings | Kevin Magnussen | Haas Ferrari | DEN | 1
+2024 Driver Standings | Alexander Albon | Williams Mercedes | THA | 0
+2024 Driver Standings | Guanyu Zhou | Kick Sauber Ferrari | CHN | 0
+2024 Driver Standings | Pierre Gasly | Alpine Renault | FRA | 0
+2024 Driver Standings | Valtteri Bottas | Kick Sauber Ferrari | FIN | 0
+2024 Driver Standings | Logan Sargeant | Williams Mercedes | USA | 0
+2023 Driver Standings | Max Verstappen | Red Bull Racing Honda RBPT | NED | 575
+2023 Driver Standings | Sergio Perez | Red Bull Racing Honda RBPT | MEX | 285
+2023 Driver Standings | Lewis Hamilton | Mercedes | GBR | 234
+2023 Driver Standings | Fernando Alonso | Aston Martin Aramco Mercedes | ESP | 206
+2023 Driver Standings | Charles Leclerc | Ferrari | MON | 206
+2023 Driver Standings | Lando Norris | McLaren Mercedes | GBR | 205
+2023 Driver Standings | Carlos Sainz | Ferrari | ESP | 200
+2023 Driver Standings | George Russell | Mercedes | GBR | 175
+2023 Driver Standings | Oscar Piastri | McLaren Mercedes | AUS | 97
+2023 Driver Standings | Lance Stroll | Aston Martin Aramco Mercedes | CAN | 74
+2023 Driver Standings | Pierre Gasly | Alpine Renault | FRA | 62
+2023 Driver Standings | Esteban Ocon | Alpine Renault | FRA | 58
+2023 Driver Standings | Alexander Albon | Williams Mercedes | THA | 27
+2023 Driver Standings | Yuki Tsunoda | AlphaTauri Honda RBPT | JPN | 17
+2023 Driver Standings | Valtteri Bottas | Alfa Romeo Ferrari | FIN | 10
+2023 Driver Standings | Nico Hulkenberg | Haas Ferrari | GER | 9
+2023 Driver Standings | Daniel Ricciardo | AlphaTauri Honda RBPT | AUS | 6
+2023 Driver Standings | Guanyu Zhou | Alfa Romeo Ferrari | CHN | 6
+2023 Driver Standings | Kevin Magnussen | Haas Ferrari | DEN | 3
+2023 Driver Standings | Liam Lawson | AlphaTauri Honda RBPT | NZL | 2
+2023 Driver Standings | Logan Sargeant | Williams Mercedes | USA | 1
+2023 Driver Standings | Nyck De Vries | AlphaTauri Honda RBPT | NED | 0
+2022 Driver Standings | Max Verstappen | Red Bull Racing RBPT | NED | 454
+2022 Driver Standings | Charles Leclerc | Ferrari | MON | 308
+2022 Driver Standings | Sergio Perez | Red Bull Racing RBPT | MEX | 305
+2022 Driver Standings | George Russell | Mercedes | GBR | 275
+2022 Driver Standings | Carlos Sainz | Ferrari | ESP | 246
+2022 Driver Standings | Lewis Hamilton | Mercedes | GBR | 240
+2022 Driver Standings | Lando Norris | McLaren Mercedes | GBR | 122
+2022 Driver Standings | Esteban Ocon | Alpine Renault | FRA | 92
+2022 Driver Standings | Fernando Alonso | Alpine Renault | ESP | 81
+2022 Driver Standings | Valtteri Bottas | Alfa Romeo Ferrari | FIN | 49
+2022 Driver Standings | Daniel Ricciardo | McLaren Mercedes | AUS | 37
+2022 Driver Standings | Sebastian Vettel | Aston Martin Aramco Mercedes | GER | 37
+2022 Driver Standings | Kevin Magnussen | Haas Ferrari | DEN | 25
+2022 Driver Standings | Pierre Gasly | AlphaTauri RBPT | FRA | 23
+2022 Driver Standings | Lance Stroll | Aston Martin Aramco Mercedes | CAN | 18
+2022 Driver Standings | Mick Schumacher | Haas Ferrari | GER | 12
+2022 Driver Standings | Yuki Tsunoda | AlphaTauri RBPT | JPN | 12
+2022 Driver Standings | Guanyu Zhou | Alfa Romeo Ferrari | CHN | 6
+2022 Driver Standings | Alexander Albon | Williams Mercedes | THA | 4
+2022 Driver Standings | Nicholas Latifi | Williams Mercedes | CAN | 2
+2022 Driver Standings | Nyck De Vries | Williams Mercedes | NED | 2
+2022 Driver Standings | Nico Hulkenberg | Aston Martin Aramco Mercedes | GER | 0
+2021 Driver Standings | Max Verstappen | Red Bull Racing Honda | NED | 395.5
+2021 Driver Standings | Lewis Hamilton | Mercedes | GBR | 387.5
+2021 Driver Standings | Valtteri Bottas | Mercedes | FIN | 226
+2021 Driver Standings | Sergio Perez | Red Bull Racing Honda | MEX | 190
+2021 Driver Standings | Carlos Sainz | Ferrari | ESP | 164.5
+2021 Driver Standings | Lando Norris | McLaren Mercedes | GBR | 160
+2021 Driver Standings | Charles Leclerc | Ferrari | MON | 159
+2021 Driver Standings | Daniel Ricciardo | McLaren Mercedes | AUS | 115
+2021 Driver Standings | Pierre Gasly | AlphaTauri Honda | FRA | 110
+2021 Driver Standings | Fernando Alonso | Alpine Renault | ESP | 81
+2021 Driver Standings | Esteban Ocon | Alpine Renault | FRA | 74
+2021 Driver Standings | Sebastian Vettel | Aston Martin Mercedes | GER | 43
+2021 Driver Standings | Lance Stroll | Aston Martin Mercedes | CAN | 34
+2021 Driver Standings | Yuki Tsunoda | AlphaTauri Honda | JPN | 32
+2021 Driver Standings | George Russell | Williams Mercedes | GBR | 16
+2021 Driver Standings | Kimi Räikkönen | Alfa Romeo Racing Ferrari | FIN | 10
+2021 Driver Standings | Nicholas Latifi | Williams Mercedes | CAN | 7
+2021 Driver Standings | Antonio Giovinazzi | Alfa Romeo Racing Ferrari | ITA | 3
+2021 Driver Standings | Mick Schumacher | Haas Ferrari | GER | 0
+2021 Driver Standings | Robert Kubica | Alfa Romeo Racing Ferrari | POL | 0
+2021 Driver Standings | Nikita Mazepin | Haas Ferrari | RAF | 0
+2020 Driver Standings | Lewis Hamilton | Mercedes | GBR | 347
+2020 Driver Standings | Valtteri Bottas | Mercedes | FIN | 223
+2020 Driver Standings | Max Verstappen | Red Bull Racing Honda | NED | 214
+2020 Driver Standings | Sergio Perez | Racing Point BWT Mercedes | MEX | 125
+2020 Driver Standings | Daniel Ricciardo | Renault | AUS | 119
+2020 Driver Standings | Carlos Sainz | McLaren Renault | ESP | 105
+2020 Driver Standings | Alexander Albon | Red Bull Racing Honda | THA | 105
+2020 Driver Standings | Charles Leclerc | Ferrari | MON | 98
+2020 Driver Standings | Lando Norris | McLaren Renault | GBR | 97
+2020 Driver Standings | Pierre Gasly | AlphaTauri Honda | FRA | 75
+2020 Driver Standings | Lance Stroll | Racing Point BWT Mercedes | CAN | 75
+2020 Driver Standings | Esteban Ocon | Renault | FRA | 62
+2020 Driver Standings | Sebastian Vettel | Ferrari | GER | 33
+2020 Driver Standings | Daniil Kvyat | AlphaTauri Honda | RUS | 32
+2020 Driver Standings | Nico Hulkenberg | Racing Point BWT Mercedes | GER | 10
+2020 Driver Standings | Kimi Räikkönen | Alfa Romeo Racing Ferrari | FIN | 4
+2020 Driver Standings | Antonio Giovinazzi | Alfa Romeo Racing Ferrari | ITA | 4
+2020 Driver Standings | George Russell | Williams Mercedes | GBR | 3
+2020 Driver Standings | Romain Grosjean | Haas Ferrari | FRA | 2
+2020 Driver Standings | Kevin Magnussen | Haas Ferrari | DEN | 1
+2020 Driver Standings | Nicholas Latifi | Williams Mercedes | CAN | 0
+2020 Driver Standings | Jack Aitken | Williams Mercedes | GBR | 0
+2020 Driver Standings | Pietro Fittipaldi | Haas Ferrari | BRA | 0
+2019 Driver Standings | Lewis Hamilton | Mercedes | GBR | 413
+2019 Driver Standings | Valtteri Bottas | Mercedes | FIN | 326
+2019 Driver Standings | Max Verstappen | Red Bull Racing Honda | NED | 278
+2019 Driver Standings | Charles Leclerc | Ferrari | MON | 264
+2019 Driver Standings | Sebastian Vettel | Ferrari | GER | 240
+2019 Driver Standings | Carlos Sainz | McLaren Renault | ESP | 96
+2019 Driver Standings | Pierre Gasly | Scuderia Toro Rosso Honda | FRA | 95
+2019 Driver Standings | Alexander Albon | Red Bull Racing Honda | THA | 92
+2019 Driver Standings | Daniel Ricciardo | Renault | AUS | 54
+2019 Driver Standings | Sergio Perez | Racing Point BWT Mercedes | MEX | 52
+2019 Driver Standings | Lando Norris | McLaren Renault | GBR | 49
+2019 Driver Standings | Kimi Räikkönen | Alfa Romeo Racing Ferrari | FIN | 43
+2019 Driver Standings | Daniil Kvyat | Scuderia Toro Rosso Honda | RUS | 37
+2019 Driver Standings | Nico Hulkenberg | Renault | GER | 37
+2019 Driver Standings | Lance Stroll | Racing Point BWT Mercedes | CAN | 21
+2019 Driver Standings | Kevin Magnussen | Haas Ferrari | DEN | 20
+2019 Driver Standings | Antonio Giovinazzi | Alfa Romeo Racing Ferrari | ITA | 14
+2019 Driver Standings | Romain Grosjean | Haas Ferrari | FRA | 8
+2019 Driver Standings | Robert Kubica | Williams Mercedes | POL | 1
+2019 Driver Standings | George Russell | Williams Mercedes | GBR | 0
+2018 Driver Standings | Lewis Hamilton | Mercedes | GBR | 408
+2018 Driver Standings | Sebastian Vettel | Ferrari | GER | 320
+2018 Driver Standings | Kimi Räikkönen | Ferrari | FIN | 251
+2018 Driver Standings | Max Verstappen | Red Bull Racing TAG Heuer | NED | 249
+2018 Driver Standings | Valtteri Bottas | Mercedes | FIN | 247
+2018 Driver Standings | Daniel Ricciardo | Red Bull Racing TAG Heuer | AUS | 170
+2018 Driver Standings | Nico Hulkenberg | Renault | GER | 69
+2018 Driver Standings | Sergio Perez | Force India Mercedes | MEX | 62
+2018 Driver Standings | Kevin Magnussen | Haas Ferrari | DEN | 56
+2018 Driver Standings | Carlos Sainz | Renault | ESP | 53
+2018 Driver Standings | Fernando Alonso | McLaren Renault | ESP | 50
+2018 Driver Standings | Esteban Ocon | Force India Mercedes | FRA | 49
+2018 Driver Standings | Charles Leclerc | Sauber Ferrari | MON | 39
+2018 Driver Standings | Romain Grosjean | Haas Ferrari | FRA | 37
+2018 Driver Standings | Pierre Gasly | Scuderia Toro Rosso Honda | FRA | 29
+2018 Driver Standings | Stoffel Vandoorne | McLaren Renault | BEL | 12
+2018 Driver Standings | Marcus Ericsson | Sauber Ferrari | SWE | 9
+2018 Driver Standings | Lance Stroll | Williams Mercedes | CAN | 6
+2018 Driver Standings | Brendon Hartley | Scuderia Toro Rosso Honda | NZL | 4
+2018 Driver Standings | Sergey Sirotkin | Williams Mercedes | RUS | 1
+2017 Driver Standings | Lewis Hamilton | Mercedes | GBR | 363
+2017 Driver Standings | Sebastian Vettel | Ferrari | GER | 317
+2017 Driver Standings | Valtteri  Bottas | Mercedes | FIN | 305
+2017 Driver Standings | Kimi Räikkönen | Ferrari | FIN | 205
+2017 Driver Standings | Daniel Ricciardo | Red Bull Racing TAG Heuer | AUS | 200
+2017 Driver Standings | Max Verstappen | Red Bull Racing TAG Heuer | NED | 168
+2017 Driver Standings | Sergio Perez | Force India Mercedes | MEX | 100
+2017 Driver Standings | Esteban Ocon | Force India Mercedes | FRA | 87
+2017 Driver Standings | Carlos Sainz | Renault | ESP | 54
+2017 Driver Standings | Nico Hulkenberg | Renault | GER | 43
+2017 Driver Standings | Felipe Massa | Williams Mercedes | BRA | 43
+2017 Driver Standings | Lance Stroll | Williams Mercedes | CAN | 40
+2017 Driver Standings | Romain Grosjean | Haas Ferrari | FRA | 28
+2017 Driver Standings | Kevin Magnussen | Haas Ferrari | DEN | 19
+2017 Driver Standings | Fernando Alonso | McLaren Honda | ESP | 17
+2017 Driver Standings | Stoffel Vandoorne | McLaren Honda | BEL | 13
+2017 Driver Standings | Jolyon Palmer | Renault | GBR | 8
+2017 Driver Standings | Pascal Wehrlein | Sauber Ferrari | GER | 5
+2017 Driver Standings | Daniil Kvyat | Toro Rosso | RUS | 5
+2017 Driver Standings | Marcus Ericsson | Sauber Ferrari | SWE | 0
+2017 Driver Standings | Pierre Gasly | Toro Rosso | FRA | 0
+2017 Driver Standings | Antonio Giovinazzi | Sauber Ferrari | ITA | 0
+2017 Driver Standings | Brendon Hartley | Toro Rosso | NZL | 0
+2016 Driver Standings | Nico Rosberg | Mercedes | GER | 385
+2016 Driver Standings | Lewis Hamilton | Mercedes | GBR | 380
+2016 Driver Standings | Daniel Ricciardo | Red Bull Racing TAG Heuer | AUS | 256
+2016 Driver Standings | Sebastian Vettel | Ferrari | GER | 212
+2016 Driver Standings | Max Verstappen | Red Bull Racing TAG Heuer | NED | 204
+2016 Driver Standings | Kimi Räikkönen | Ferrari | FIN | 186
+2016 Driver Standings | Sergio Perez | Force India Mercedes | MEX | 101
+2016 Driver Standings | Valtteri  Bottas | Williams Mercedes | FIN | 85
+2016 Driver Standings | Nico Hulkenberg | Force India Mercedes | GER | 72
+2016 Driver Standings | Fernando Alonso | McLaren Honda | ESP | 54
+2016 Driver Standings | Felipe Massa | Williams Mercedes | BRA | 53
+2016 Driver Standings | Carlos Sainz | Toro Rosso Ferrari | ESP | 46
+2016 Driver Standings | Romain Grosjean | Haas Ferrari | FRA | 29
+2016 Driver Standings | Daniil Kvyat | Toro Rosso Ferrari | RUS | 25
+2016 Driver Standings | Jenson Button | McLaren Honda | GBR | 21
+2016 Driver Standings | Kevin Magnussen | Renault | DEN | 7
+2016 Driver Standings | Felipe Nasr | Sauber Ferrari | BRA | 2
+2016 Driver Standings | Jolyon Palmer | Renault | GBR | 1
+2016 Driver Standings | Pascal Wehrlein | MRT Mercedes | GER | 1
+2016 Driver Standings | Stoffel Vandoorne | McLaren Honda | BEL | 1
+2016 Driver Standings | Esteban Gutierrez  | Haas Ferrari | MEX | 0
+2016 Driver Standings | Marcus Ericsson | Sauber Ferrari | SWE | 0
+2016 Driver Standings | Esteban Ocon | MRT Mercedes | FRA | 0
+2016 Driver Standings | Rio Haryanto | MRT Mercedes | INA | 0
+2015 Driver Standings | Lewis Hamilton | Mercedes | GBR | 381
+2015 Driver Standings | Nico Rosberg | Mercedes | GER | 322
+2015 Driver Standings | Sebastian Vettel | Ferrari | GER | 278
+2015 Driver Standings | Kimi Räikkönen | Ferrari | FIN | 150
+2015 Driver Standings | Valtteri  Bottas | Williams Mercedes | FIN | 136
+2015 Driver Standings | Felipe Massa | Williams Mercedes | BRA | 121
+2015 Driver Standings | Daniil Kvyat | Red Bull Racing Renault | RUS | 95
+2015 Driver Standings | Daniel Ricciardo | Red Bull Racing Renault | AUS | 92
+2015 Driver Standings | Sergio Perez | Force India Mercedes | MEX | 78
+2015 Driver Standings | Nico Hulkenberg | Force India Mercedes | GER | 58
+2015 Driver Standings | Romain Grosjean | Lotus Mercedes | FRA | 51
+2015 Driver Standings | Max Verstappen | STR Renault | NED | 49
+2015 Driver Standings | Felipe Nasr | Sauber Ferrari | BRA | 27
+2015 Driver Standings | Pastor Maldonado | Lotus Mercedes | VEN | 27
+2015 Driver Standings | Carlos Sainz | STR Renault | ESP | 18
+2015 Driver Standings | Jenson Button | McLaren Honda | GBR | 16
+2015 Driver Standings | Fernando Alonso | McLaren Honda | ESP | 11
+2015 Driver Standings | Marcus Ericsson | Sauber Ferrari | SWE | 9
+2015 Driver Standings | Roberto Merhi | Marussia Ferrari | ESP | 0
+2015 Driver Standings | Alexander Rossi | Marussia Ferrari | USA | 0
+2015 Driver Standings | Will Stevens | Marussia Ferrari | GBR | 0
+2014 Driver Standings | Lewis Hamilton | Mercedes | GBR | 384
+2014 Driver Standings | Nico Rosberg | Mercedes | GER | 317
+2014 Driver Standings | Daniel Ricciardo | Red Bull Racing Renault | AUS | 238
+2014 Driver Standings | Valtteri  Bottas | Williams Mercedes | FIN | 186
+2014 Driver Standings | Sebastian Vettel | Red Bull Racing Renault | GER | 167
+2014 Driver Standings | Fernando Alonso | Ferrari | ESP | 161
+2014 Driver Standings | Felipe Massa | Williams Mercedes | BRA | 134
+2014 Driver Standings | Jenson Button | McLaren Mercedes | GBR | 126
+2014 Driver Standings | Nico Hulkenberg | Force India Mercedes | GER | 96
+2014 Driver Standings | Sergio Perez | Force India Mercedes | MEX | 59
+2014 Driver Standings | Kevin Magnussen | McLaren Mercedes | DEN | 55
+2014 Driver Standings | Kimi Räikkönen | Ferrari | FIN | 55
+2014 Driver Standings | Jean-Eric Vergne | STR Renault | FRA | 22
+2014 Driver Standings | Romain Grosjean | Lotus Renault | FRA | 8
+2014 Driver Standings | Daniil Kvyat | STR Renault | RUS | 8
+2014 Driver Standings | Pastor Maldonado | Lotus Renault | VEN | 2
+2014 Driver Standings | Jules Bianchi | Marussia Ferrari | FRA | 2
+2014 Driver Standings | Adrian Sutil | Sauber Ferrari | GER | 0
+2014 Driver Standings | Marcus Ericsson | Caterham Renault | SWE | 0
+2014 Driver Standings | Esteban Gutierrez  | Sauber Ferrari | MEX | 0
+2014 Driver Standings | Max Chilton | Marussia Ferrari | GBR | 0
+2014 Driver Standings | Kamui Kobayashi | Caterham Renault | JPN | 0
+2014 Driver Standings | Will Stevens | Caterham Renault | GBR | 0
+2013 Driver Standings | Sebastian Vettel | Red Bull Racing Renault | GER | 397
+2013 Driver Standings | Fernando Alonso | Ferrari | ESP | 242
+2013 Driver Standings | Mark Webber | Red Bull Racing Renault | AUS | 199
+2013 Driver Standings | Lewis Hamilton | Mercedes | GBR | 189
+2013 Driver Standings | Kimi Räikkönen | Lotus Renault | FIN | 183
+2013 Driver Standings | Nico Rosberg | Mercedes | GER | 171
+2013 Driver Standings | Romain Grosjean | Lotus Renault | FRA | 132
+2013 Driver Standings | Felipe Massa | Ferrari | BRA | 112
+2013 Driver Standings | Jenson Button | McLaren Mercedes | GBR | 73
+2013 Driver Standings | Nico Hulkenberg | Sauber Ferrari | GER | 51
+2013 Driver Standings | Sergio Perez | McLaren Mercedes | MEX | 49
+2013 Driver Standings | Paul di Resta | Force India Mercedes | GBR | 48
+2013 Driver Standings | Adrian Sutil | Force India Mercedes | GER | 29
+2013 Driver Standings | Daniel Ricciardo | STR Ferrari | AUS | 20
+2013 Driver Standings | Jean-Eric Vergne | STR Ferrari | FRA | 13
+2013 Driver Standings | Esteban Gutierrez  | Sauber Ferrari | MEX | 6
+2013 Driver Standings | Valtteri  Bottas | Williams Renault | FIN | 4
+2013 Driver Standings | Pastor Maldonado | Williams Renault | VEN | 1
+2013 Driver Standings | Jules Bianchi | Marussia Cosworth | FRA | 0
+2013 Driver Standings | Charles Pic | Caterham Renault | FRA | 0
+2013 Driver Standings | Heikki Kovalainen | Lotus Renault | FIN | 0
+2013 Driver Standings | Giedo van der Garde | Caterham Renault | NED | 0
+2013 Driver Standings | Max Chilton | Marussia Cosworth | GBR | 0
+2012 Driver Standings | Sebastian Vettel | Red Bull Racing Renault | GER | 281
+2012 Driver Standings | Fernando Alonso | Ferrari | ESP | 278
+2012 Driver Standings | Kimi Räikkönen | Lotus Renault | FIN | 207
+2012 Driver Standings | Lewis Hamilton | McLaren Mercedes | GBR | 190
+2012 Driver Standings | Jenson Button | McLaren Mercedes | GBR | 188
+2012 Driver Standings | Mark Webber | Red Bull Racing Renault | AUS | 179
+2012 Driver Standings | Felipe Massa | Ferrari | BRA | 122
+2012 Driver Standings | Romain Grosjean | Lotus Renault | FRA | 96
+2012 Driver Standings | Nico Rosberg | Mercedes | GER | 93
+2012 Driver Standings | Sergio Perez | Sauber Ferrari | MEX | 66
+2012 Driver Standings | Nico Hulkenberg | Force India Mercedes | GER | 63
+2012 Driver Standings | Kamui Kobayashi | Sauber Ferrari | JPN | 60
+2012 Driver Standings | Michael Schumacher | Mercedes | GER | 49
+2012 Driver Standings | Paul di Resta | Force India Mercedes | GBR | 46
+2012 Driver Standings | Pastor Maldonado | Williams Renault | VEN | 45
+2012 Driver Standings | Bruno Senna | Williams Renault | BRA | 31
+2012 Driver Standings | Jean-Eric Vergne | STR Ferrari | FRA | 16
+2012 Driver Standings | Daniel Ricciardo | STR Ferrari | AUS | 10
+2012 Driver Standings | Vitaly Petrov | Caterham Renault | RUS | 0
+2012 Driver Standings | Timo Glock | Marussia Cosworth | GER | 0
+2012 Driver Standings | Charles Pic | Marussia Cosworth | FRA | 0
+2012 Driver Standings | Heikki Kovalainen | Caterham Renault | FIN | 0
+2012 Driver Standings | Jerome d'Ambrosio | Lotus Renault | BEL | 0
+2012 Driver Standings | Narain Karthikeyan | HRT Cosworth | IND | 0
+2012 Driver Standings | Pedro de la Rosa | HRT Cosworth | ESP | 0
+2011 Driver Standings | Sebastian Vettel | Red Bull Racing Renault | GER | 392
+2011 Driver Standings | Jenson Button | McLaren Mercedes | GBR | 270
+2011 Driver Standings | Mark Webber | Red Bull Racing Renault | AUS | 258
+2011 Driver Standings | Fernando Alonso | Ferrari | ESP | 257
+2011 Driver Standings | Lewis Hamilton | McLaren Mercedes | GBR | 227
+2011 Driver Standings | Felipe Massa | Ferrari | BRA | 118
+2011 Driver Standings | Nico Rosberg | Mercedes | GER | 89
+2011 Driver Standings | Michael Schumacher | Mercedes | GER | 76
+2011 Driver Standings | Adrian Sutil | Force India Mercedes | GER | 42
+2011 Driver Standings | Vitaly Petrov | Renault | RUS | 37
+2011 Driver Standings | Nick Heidfeld | Renault | GER | 34
+2011 Driver Standings | Kamui Kobayashi | Sauber Ferrari | JPN | 30
+2011 Driver Standings | Paul di Resta | Force India Mercedes | GBR | 27
+2011 Driver Standings | Jaime Alguersuari | STR Ferrari | ESP | 26
+2011 Driver Standings | Sebastien Buemi | STR Ferrari | SUI | 15
+2011 Driver Standings | Sergio Perez | Sauber Ferrari | MEX | 14
+2011 Driver Standings | Rubens Barrichello | Williams Cosworth | BRA | 4
+2011 Driver Standings | Bruno Senna | Renault | BRA | 2
+2011 Driver Standings | Pastor Maldonado | Williams Cosworth | VEN | 1
+2011 Driver Standings | Pedro de la Rosa | Sauber Ferrari | ESP | 0
+2011 Driver Standings | Jarno Trulli | Lotus Renault | ITA | 0
+2011 Driver Standings | Heikki Kovalainen | Lotus Renault | FIN | 0
+2011 Driver Standings | Vitantonio Liuzzi | HRT Cosworth | ITA | 0
+2011 Driver Standings | Jerome d'Ambrosio | Virgin Cosworth | BEL | 0
+2011 Driver Standings | Timo Glock | Virgin Cosworth | GER | 0
+2011 Driver Standings | Narain Karthikeyan | HRT Cosworth | IND | 0
+2011 Driver Standings | Daniel Ricciardo | HRT Cosworth | AUS | 0
+2011 Driver Standings | Karun Chandhok | Lotus Renault | IND | 0
+2010 Driver Standings | Sebastian Vettel | RBR Renault | GER | 256
+2010 Driver Standings | Fernando Alonso | Ferrari | ESP | 252
+2010 Driver Standings | Mark Webber | RBR Renault | AUS | 242
+2010 Driver Standings | Lewis Hamilton | McLaren Mercedes | GBR | 240
+2010 Driver Standings | Jenson Button | McLaren Mercedes | GBR | 214
+2010 Driver Standings | Felipe Massa | Ferrari | BRA | 144
+2010 Driver Standings | Nico Rosberg | Mercedes | GER | 142
+2010 Driver Standings | Robert Kubica | Renault | POL | 136
+2010 Driver Standings | Michael Schumacher | Mercedes | GER | 72
+2010 Driver Standings | Rubens Barrichello | Williams Cosworth | BRA | 47
+2010 Driver Standings | Adrian Sutil | Force India Mercedes | GER | 47
+2010 Driver Standings | Kamui Kobayashi | Sauber Ferrari | JPN | 32
+2010 Driver Standings | Vitaly Petrov | Renault | RUS | 27
+2010 Driver Standings | Nico Hulkenberg | Williams Cosworth | GER | 22
+2010 Driver Standings | Vitantonio Liuzzi | Force India Mercedes | ITA | 21
+2010 Driver Standings | Sebastien Buemi | STR Ferrari | SUI | 8
+2010 Driver Standings | Pedro de la Rosa | Sauber Ferrari | ESP | 6
+2010 Driver Standings | Nick Heidfeld | Sauber Ferrari | GER | 6
+2010 Driver Standings | Jaime Alguersuari | STR Ferrari | ESP | 5
+2010 Driver Standings | Heikki Kovalainen | Lotus Cosworth | FIN | 0
+2010 Driver Standings | Jarno Trulli | Lotus Cosworth | ITA | 0
+2010 Driver Standings | Karun Chandhok | HRT Cosworth | IND | 0
+2010 Driver Standings | Bruno Senna | HRT Cosworth | BRA | 0
+2010 Driver Standings | Lucas di Grassi | Virgin Cosworth | BRA | 0
+2010 Driver Standings | Timo Glock | Virgin Cosworth | GER | 0
+2010 Driver Standings | Sakon Yamamoto | HRT Cosworth | JPN | 0
+2010 Driver Standings | Christian Klien | HRT Cosworth | AUT | 0
+2009 Driver Standings | Jenson Button | Brawn Mercedes | GBR | 95
+2009 Driver Standings | Sebastian Vettel | RBR Renault | GER | 84
+2009 Driver Standings | Rubens Barrichello | Brawn Mercedes | BRA | 77
+2009 Driver Standings | Mark Webber | RBR Renault | AUS | 69.5
+2009 Driver Standings | Lewis Hamilton | McLaren Mercedes | GBR | 49
+2009 Driver Standings | Kimi Räikkönen | Ferrari | FIN | 48
+2009 Driver Standings | Nico Rosberg | Williams Toyota | GER | 34.5
+2009 Driver Standings | Jarno Trulli | Toyota | ITA | 32.5
+2009 Driver Standings | Fernando Alonso | Renault | ESP | 26
+2009 Driver Standings | Timo Glock | Toyota | GER | 24
+2009 Driver Standings | Felipe Massa | Ferrari | BRA | 22
+2009 Driver Standings | Heikki Kovalainen | McLaren Mercedes | FIN | 22
+2009 Driver Standings | Nick Heidfeld | Sauber BMW | GER | 19
+2009 Driver Standings | Robert Kubica | Sauber BMW | POL | 17
+2009 Driver Standings | Giancarlo Fisichella | Ferrari | ITA | 8
+2009 Driver Standings | Sebastien Buemi | STR Ferrari | SUI | 6
+2009 Driver Standings | Adrian Sutil | Force India Mercedes | GER | 5
+2009 Driver Standings | Kamui Kobayashi | Toyota | JPN | 3
+2009 Driver Standings | Sebastien Bourdais | STR Ferrari | FRA | 2
+2009 Driver Standings | Kazuki Nakajima | Williams Toyota | JPN | 0
+2009 Driver Standings | Nelson Piquet | Renault | BRA | 0
+2009 Driver Standings | Vitantonio Liuzzi | Force India Mercedes | ITA | 0
+2009 Driver Standings | Romain Grosjean | Renault | FRA | 0
+2009 Driver Standings | Jaime Alguersuari | STR Ferrari | ESP | 0
+2009 Driver Standings | Luca Badoer | Ferrari | ITA | 0
+2008 Driver Standings | Lewis Hamilton | McLaren Mercedes | GBR | 98
+2008 Driver Standings | Felipe Massa | Ferrari | BRA | 97
+2008 Driver Standings | Kimi Räikkönen | Ferrari | FIN | 75
+2008 Driver Standings | Robert Kubica | Sauber BMW | POL | 75
+2008 Driver Standings | Fernando Alonso | Renault | ESP | 61
+2008 Driver Standings | Nick Heidfeld | Sauber BMW | GER | 60
+2008 Driver Standings | Heikki Kovalainen | McLaren Mercedes | FIN | 53
+2008 Driver Standings | Sebastian Vettel | STR Ferrari | GER | 35
+2008 Driver Standings | Jarno Trulli | Toyota | ITA | 31
+2008 Driver Standings | Timo Glock | Toyota | GER | 25
+2008 Driver Standings | Mark Webber | Red Bull Renault | AUS | 21
+2008 Driver Standings | Nelson Piquet | Renault | BRA | 19
+2008 Driver Standings | Nico Rosberg | Williams Toyota | GER | 17
+2008 Driver Standings | Rubens Barrichello | Honda | BRA | 11
+2008 Driver Standings | Kazuki Nakajima | Williams Toyota | JPN | 9
+2008 Driver Standings | David Coulthard | Red Bull Renault | GBR | 8
+2008 Driver Standings | Sebastien Bourdais | STR Ferrari | FRA | 4
+2008 Driver Standings | Jenson Button | Honda | GBR | 3
+2008 Driver Standings | Giancarlo Fisichella | Force India Ferrari | ITA | 0
+2008 Driver Standings | Adrian Sutil | Force India Ferrari | GER | 0
+2008 Driver Standings | Takuma Sato | Super Aguri Honda | JPN | 0
+2008 Driver Standings | Anthony Davidson | Super Aguri Honda | GBR | 0
+2007 Driver Standings | Kimi Räikkönen | Ferrari | FIN | 110
+2007 Driver Standings | Lewis Hamilton | McLaren Mercedes | GBR | 109
+2007 Driver Standings | Fernando Alonso | McLaren Mercedes | ESP | 109
+2007 Driver Standings | Felipe Massa | Ferrari | BRA | 94
+2007 Driver Standings | Nick Heidfeld | Sauber BMW | GER | 61
+2007 Driver Standings | Robert Kubica | Sauber BMW | POL | 39
+2007 Driver Standings | Heikki Kovalainen | Renault | FIN | 30
+2007 Driver Standings | Giancarlo Fisichella | Renault | ITA | 21
+2007 Driver Standings | Nico Rosberg | Williams Toyota | GER | 20
+2007 Driver Standings | David Coulthard | Red Bull Renault | GBR | 14
+2007 Driver Standings | Alexander Wurz | Williams Toyota | AUT | 13
+2007 Driver Standings | Mark Webber | Red Bull Renault | AUS | 10
+2007 Driver Standings | Jarno Trulli | Toyota | ITA | 8
+2007 Driver Standings | Sebastian Vettel | STR Ferrari | GER | 6
+2007 Driver Standings | Jenson Button | Honda | GBR | 6
+2007 Driver Standings | Ralf Schumacher | Toyota | GER | 5
+2007 Driver Standings | Takuma Sato | Super Aguri Honda | JPN | 4
+2007 Driver Standings | Vitantonio Liuzzi | STR Ferrari | ITA | 3
+2007 Driver Standings | Adrian Sutil | Spyker Ferrari | GER | 1
+2007 Driver Standings | Rubens Barrichello | Honda | BRA | 0
+2007 Driver Standings | Scott Speed | STR Ferrari | USA | 0
+2007 Driver Standings | Kazuki Nakajima | Williams Toyota | JPN | 0
+2007 Driver Standings | Anthony Davidson | Super Aguri Honda | GBR | 0
+2007 Driver Standings | Sakon Yamamoto | Spyker Ferrari | JPN | 0
+2007 Driver Standings | Christijan Albers | Spyker Ferrari | NED | 0
+2006 Driver Standings | Fernando Alonso | Renault | ESP | 134
+2006 Driver Standings | Michael Schumacher | Ferrari | GER | 121
+2006 Driver Standings | Felipe Massa | Ferrari | BRA | 80
+2006 Driver Standings | Giancarlo Fisichella | Renault | ITA | 72
+2006 Driver Standings | Kimi Räikkönen | McLaren Mercedes | FIN | 65
+2006 Driver Standings | Jenson Button | Honda | GBR | 56
+2006 Driver Standings | Rubens Barrichello | Honda | BRA | 30
+2006 Driver Standings | Juan Pablo Montoya | McLaren Mercedes | COL | 26
+2006 Driver Standings | Nick Heidfeld | Sauber BMW | GER | 23
+2006 Driver Standings | Ralf Schumacher | Toyota | GER | 20
+2006 Driver Standings | Pedro de la Rosa | McLaren Mercedes | ESP | 19
+2006 Driver Standings | Jarno Trulli | Toyota | ITA | 15
+2006 Driver Standings | David Coulthard | RBR Ferrari | GBR | 14
+2006 Driver Standings | Mark Webber | Williams Cosworth | AUS | 7
+2006 Driver Standings | Jacques Villeneuve | Sauber BMW | CAN | 7
+2006 Driver Standings | Robert Kubica | Sauber BMW | POL | 6
+2006 Driver Standings | Nico Rosberg | Williams Cosworth | GER | 4
+2006 Driver Standings | Christian Klien | RBR Ferrari | AUT | 2
+2006 Driver Standings | Vitantonio Liuzzi | STR Cosworth | ITA | 1
+2006 Driver Standings | Scott Speed | STR Cosworth | USA | 0
+2006 Driver Standings | Tiago Monteiro | MF1 Toyota | POR | 0
+2006 Driver Standings | Christijan Albers | MF1 Toyota | NED | 0
+2006 Driver Standings | Takuma Sato | Super Aguri Honda | JPN | 0
+2006 Driver Standings | Robert Doornbos | RBR Ferrari | NED | 0
+2006 Driver Standings | Yuji Ide | Super Aguri Honda | JPN | 0
+2006 Driver Standings | Sakon Yamamoto | Super Aguri Honda | JPN | 0
+2006 Driver Standings | Franck Montagny | Super Aguri Honda | FRA | 0
+2005 Driver Standings | Fernando Alonso | Renault | ESP | 133
+2005 Driver Standings | Kimi Räikkönen | McLaren Mercedes | FIN | 112
+2005 Driver Standings | Michael Schumacher | Ferrari | GER | 62
+2005 Driver Standings | Juan Pablo Montoya | McLaren Mercedes | COL | 60
+2005 Driver Standings | Giancarlo Fisichella | Renault | ITA | 58
+2005 Driver Standings | Ralf Schumacher | Toyota | GER | 45
+2005 Driver Standings | Jarno Trulli | Toyota | ITA | 43
+2005 Driver Standings | Rubens Barrichello | Ferrari | BRA | 38
+2005 Driver Standings | Jenson Button | BAR Honda | GBR | 37
+2005 Driver Standings | Mark Webber | Williams BMW | AUS | 36
+2005 Driver Standings | Nick Heidfeld | Williams BMW | GER | 28
+2005 Driver Standings | David Coulthard | RBR Cosworth | GBR | 24
+2005 Driver Standings | Felipe Massa | Sauber Petronas | BRA | 11
+2005 Driver Standings | Jacques Villeneuve | Sauber Petronas | CAN | 9
+2005 Driver Standings | Christian Klien | RBR Cosworth | AUT | 9
+2005 Driver Standings | Tiago Monteiro | Jordan Toyota | POR | 7
+2005 Driver Standings | Alexander Wurz | McLaren Mercedes | AUT | 6
+2005 Driver Standings | Narain Karthikeyan | Jordan Toyota | IND | 5
+2005 Driver Standings | Christijan Albers | Minardi Cosworth | NED | 4
+2005 Driver Standings | Pedro de la Rosa | McLaren Mercedes | ESP | 4
+2005 Driver Standings | Patrick Friesacher  | Minardi Cosworth | AUT | 3
+2005 Driver Standings | Antonio Pizzonia | Williams BMW | BRA | 2
+2005 Driver Standings | Takuma Sato | BAR Honda | JPN | 1
+2005 Driver Standings | Vitantonio Liuzzi | RBR Cosworth | ITA | 1
+2005 Driver Standings | Robert Doornbos | Minardi Cosworth | MON | 0
+2004 Driver Standings | Michael Schumacher | Ferrari | GER | 148
+2004 Driver Standings | Rubens Barrichello | Ferrari | BRA | 114
+2004 Driver Standings | Jenson Button | BAR Honda | GBR | 85
+2004 Driver Standings | Fernando Alonso | Renault | ESP | 59
+2004 Driver Standings | Juan Pablo Montoya | Williams BMW | COL | 58
+2004 Driver Standings | Jarno Trulli | Toyota | ITA | 46
+2004 Driver Standings | Kimi Räikkönen | McLaren Mercedes | FIN | 45
+2004 Driver Standings | Takuma Sato | BAR Honda | JPN | 34
+2004 Driver Standings | Ralf Schumacher | Williams BMW | GER | 24
+2004 Driver Standings | David Coulthard | McLaren Mercedes | GBR | 24
+2004 Driver Standings | Giancarlo Fisichella | Sauber Petronas | ITA | 22
+2004 Driver Standings | Felipe Massa | Sauber Petronas | BRA | 12
+2004 Driver Standings | Mark Webber | Jaguar Cosworth | AUS | 7
+2004 Driver Standings | Olivier Panis | Toyota | FRA | 6
+2004 Driver Standings | Antonio Pizzonia | Williams BMW | BRA | 6
+2004 Driver Standings | Christian Klien | Jaguar Cosworth | AUT | 3
+2004 Driver Standings | Cristiano da Matta | Toyota | BRA | 3
+2004 Driver Standings | Nick Heidfeld | Jordan Ford | GER | 3
+2004 Driver Standings | Timo Glock | Jordan Ford | GER | 2
+2004 Driver Standings | Zsolt Baumgartner | Minardi Cosworth | HUN | 1
+2004 Driver Standings | Jacques Villeneuve | Renault | CAN | 0
+2004 Driver Standings | Ricardo Zonta | Toyota | BRA | 0
+2004 Driver Standings | Marc Gene | Williams BMW | ESP | 0
+2004 Driver Standings | Giorgio Pantano | Jordan Ford | ITA | 0
+2004 Driver Standings | Gianmaria Bruni | Minardi Cosworth | ITA | 0
+2003 Driver Standings | Michael Schumacher | Ferrari | GER | 93
+2003 Driver Standings | Kimi Räikkönen | McLaren Mercedes | FIN | 91
+2003 Driver Standings | Juan Pablo Montoya | Williams BMW | COL | 82
+2003 Driver Standings | Rubens Barrichello | Ferrari | BRA | 65
+2003 Driver Standings | Ralf Schumacher | Williams BMW | GER | 58
+2003 Driver Standings | Fernando Alonso | Renault | ESP | 55
+2003 Driver Standings | David Coulthard | McLaren Mercedes | GBR | 51
+2003 Driver Standings | Jarno Trulli | Renault | ITA | 33
+2003 Driver Standings | Jenson Button | BAR Honda | GBR | 17
+2003 Driver Standings | Mark Webber | Jaguar Cosworth | AUS | 17
+2003 Driver Standings | Heinz-Harald Frentzen | Sauber Petronas | GER | 13
+2003 Driver Standings | Giancarlo Fisichella | Jordan Ford | ITA | 12
+2003 Driver Standings | Cristiano da Matta | Toyota | BRA | 10
+2003 Driver Standings | Nick Heidfeld | Sauber Petronas | GER | 6
+2003 Driver Standings | Olivier Panis | Toyota | FRA | 6
+2003 Driver Standings | Jacques Villeneuve | BAR Honda | CAN | 6
+2003 Driver Standings | Marc Gene | Williams BMW | ESP | 4
+2003 Driver Standings | Takuma Sato | BAR Honda | JPN | 3
+2003 Driver Standings | Ralph Firman | Jordan Ford | IRL | 1
+2003 Driver Standings | Justin Wilson | Jaguar Cosworth | GBR | 1
+2003 Driver Standings | Antonio Pizzonia | Jaguar Cosworth | BRA | 0
+2003 Driver Standings | Jos Verstappen | Minardi Cosworth | NED | 0
+2003 Driver Standings | Nicolas Kiesa | Minardi Cosworth | DEN | 0
+2003 Driver Standings | Zsolt Baumgartner | Jordan Ford | HUN | 0
+2002 Driver Standings | Michael Schumacher | Ferrari | GER | 144
+2002 Driver Standings | Rubens Barrichello | Ferrari | BRA | 77
+2002 Driver Standings | Juan Pablo Montoya | Williams BMW | COL | 50
+2002 Driver Standings | Ralf Schumacher | Williams BMW | GER | 42
+2002 Driver Standings | David Coulthard | McLaren Mercedes | GBR | 41
+2002 Driver Standings | Kimi Räikkönen | McLaren Mercedes | FIN | 24
+2002 Driver Standings | Jenson Button | Renault | GBR | 14
+2002 Driver Standings | Jarno Trulli | Renault | ITA | 9
+2002 Driver Standings | Eddie Irvine | Jaguar Cosworth | GBR | 8
+2002 Driver Standings | Nick Heidfeld | Sauber Petronas | GER | 7
+2002 Driver Standings | Giancarlo Fisichella | Jordan Honda | ITA | 7
+2002 Driver Standings | Jacques Villeneuve | BAR Honda | CAN | 4
+2002 Driver Standings | Felipe Massa | Sauber Petronas | BRA | 4
+2002 Driver Standings | Olivier Panis | BAR Honda | FRA | 3
+2002 Driver Standings | Takuma Sato | Jordan Honda | JPN | 2
+2002 Driver Standings | Mark Webber | Minardi Asiatech | AUS | 2
+2002 Driver Standings | Mika Salo | Toyota | FIN | 2
+2002 Driver Standings | Heinz-Harald Frentzen | Sauber Petronas | GER | 2
+2002 Driver Standings | Allan McNish | Toyota | GBR | 0
+2002 Driver Standings | Alex Yoong | Minardi Asiatech | MAS | 0
+2002 Driver Standings | Pedro de la Rosa | Jaguar Cosworth | ESP | 0
+2002 Driver Standings | Enrique Bernoldi | Arrows Cosworth | BRA | 0
+2001 Driver Standings | Michael Schumacher | Ferrari | GER | 123
+2001 Driver Standings | David Coulthard | McLaren Mercedes | GBR | 65
+2001 Driver Standings | Rubens Barrichello | Ferrari | BRA | 56
+2001 Driver Standings | Ralf Schumacher | Williams BMW | GER | 49
+2001 Driver Standings | Mika Hakkinen | McLaren Mercedes | FIN | 37
+2001 Driver Standings | Juan Pablo Montoya | Williams BMW | COL | 31
+2001 Driver Standings | Jacques Villeneuve | BAR Honda | CAN | 12
+2001 Driver Standings | Nick Heidfeld | Sauber Petronas | GER | 12
+2001 Driver Standings | Jarno Trulli | Jordan Honda | ITA | 12
+2001 Driver Standings | Kimi Räikkönen | Sauber Petronas | FIN | 9
+2001 Driver Standings | Giancarlo Fisichella | Benetton Renault | ITA | 8
+2001 Driver Standings | Eddie Irvine | Jaguar Cosworth | GBR | 6
+2001 Driver Standings | Heinz-Harald Frentzen | Prost Acer | GER | 6
+2001 Driver Standings | Olivier Panis | BAR Honda | FRA | 5
+2001 Driver Standings | Jean Alesi | Jordan Honda | FRA | 5
+2001 Driver Standings | Pedro de la Rosa | Jaguar Cosworth | ESP | 3
+2001 Driver Standings | Jenson Button | Benetton Renault | GBR | 2
+2001 Driver Standings | Jos Verstappen | Arrows Asiatech | NED | 1
+2000 Driver Standings | Michael Schumacher | Ferrari | GER | 108
+2000 Driver Standings | Mika Hakkinen | McLaren Mercedes | FIN | 89
+2000 Driver Standings | David Coulthard | McLaren Mercedes | GBR | 73
+2000 Driver Standings | Rubens Barrichello | Ferrari | BRA | 62
+2000 Driver Standings | Ralf Schumacher | Williams BMW | GER | 24
+2000 Driver Standings | Giancarlo Fisichella | Benetton Playlife | ITA | 18
+2000 Driver Standings | Jacques Villeneuve | BAR Honda | CAN | 17
+2000 Driver Standings | Jenson Button | Williams BMW | GBR | 12
+2000 Driver Standings | Heinz-Harald Frentzen | Jordan Mugen Honda | GER | 11
+2000 Driver Standings | Jarno Trulli | Jordan Mugen Honda | ITA | 6
+2000 Driver Standings | Mika Salo | Sauber Petronas | FIN | 6
+2000 Driver Standings | Jos Verstappen | Arrows Supertec | NED | 5
+2000 Driver Standings | Eddie Irvine | Jaguar Cosworth | GBR | 4
+2000 Driver Standings | Ricardo Zonta | BAR Honda | BRA | 3
+2000 Driver Standings | Alexander Wurz | Benetton Playlife | AUT | 2
+2000 Driver Standings | Pedro de la Rosa | Arrows Supertec | ESP | 2
+2000 Driver Standings | Pedro Diniz | Sauber Petronas | BRA | 0
+2000 Driver Standings | Johnny Herbert | Jaguar Cosworth | GBR | 0
+2000 Driver Standings | Marc Gene | Minardi Fondmetal | ESP | 0
+2000 Driver Standings | Gaston Mazzacane | Minardi Fondmetal | ARG | 0
+2000 Driver Standings | Nick Heidfeld | Prost Peugeot | GER | 0
+2000 Driver Standings | Jean Alesi | Prost Peugeot | FRA | 0
+2000 Driver Standings | Luciano Burti | Jaguar Cosworth | BRA | 0
+1999 Driver Standings | Mika Hakkinen | McLaren Mercedes | FIN | 76
+1999 Driver Standings | Eddie Irvine | Ferrari | GBR | 74
+1999 Driver Standings | Heinz-Harald Frentzen | Jordan Mugen Honda | GER | 54
+1999 Driver Standings | David Coulthard | McLaren Mercedes | GBR | 48
+1999 Driver Standings | Michael Schumacher | Ferrari | GER | 44
+1999 Driver Standings | Ralf Schumacher | Williams Supertec | GER | 35
+1999 Driver Standings | Rubens Barrichello | Stewart Ford | BRA | 21
+1999 Driver Standings | Johnny Herbert | Stewart Ford | GBR | 15
+1999 Driver Standings | Giancarlo Fisichella | Benetton Playlife | ITA | 13
+1999 Driver Standings | Mika Salo | Ferrari | FIN | 10
+1999 Driver Standings | Jarno Trulli | Prost Peugeot | ITA | 7
+1999 Driver Standings | Damon Hill | Jordan Mugen Honda | GBR | 7
+1999 Driver Standings | Alexander Wurz | Benetton Playlife | AUT | 3
+1999 Driver Standings | Pedro Diniz | Sauber Petronas | BRA | 3
+1999 Driver Standings | Olivier Panis | Prost Peugeot | FRA | 2
+1999 Driver Standings | Jean Alesi | Sauber Petronas | FRA | 2
+1999 Driver Standings | Pedro de la Rosa | Arrows | ESP | 1
+1999 Driver Standings | Marc Gene | Minardi Ford | ESP | 1
+1998 Driver Standings | Mika Hakkinen | McLaren Mercedes | FIN | 100
+1998 Driver Standings | Michael Schumacher | Ferrari | GER | 86
+1998 Driver Standings | David Coulthard | McLaren Mercedes | GBR | 56
+1998 Driver Standings | Eddie Irvine | Ferrari | GBR | 47
+1998 Driver Standings | Jacques Villeneuve | Williams Mecachrome | CAN | 21
+1998 Driver Standings | Damon Hill | Jordan Mugen Honda | GBR | 20
+1998 Driver Standings | Heinz-Harald Frentzen | Williams Mecachrome | GER | 17
+1998 Driver Standings | Alexander Wurz | Benetton Playlife | AUT | 17
+1998 Driver Standings | Giancarlo Fisichella | Benetton Playlife | ITA | 16
+1998 Driver Standings | Ralf Schumacher | Jordan Mugen Honda | GER | 14
+1998 Driver Standings | Jean Alesi | Sauber Petronas | FRA | 9
+1998 Driver Standings | Rubens Barrichello | Stewart Ford | BRA | 4
+1998 Driver Standings | Mika Salo | Arrows | FIN | 3
+1998 Driver Standings | Pedro Diniz | Arrows | BRA | 3
+1998 Driver Standings | Johnny Herbert | Sauber Petronas | GBR | 1
+1998 Driver Standings | Jan Magnussen | Stewart Ford | DEN | 1
+1998 Driver Standings | Jarno Trulli | Prost Peugeot | ITA | 1
+1998 Driver Standings | Ricardo Rosset | Tyrrell Ford | BRA | 0
+1998 Driver Standings | Olivier Panis | Prost Peugeot | FRA | 0
+1998 Driver Standings | Toranosuke Takagi | Tyrrell Ford | JPN | 0
+1998 Driver Standings | Shinji Nakano | Minardi Ford | JPN | 0
+1998 Driver Standings | Esteban Tuero | Minardi Ford | ARG | 0
+1998 Driver Standings | Jos Verstappen | Stewart Ford | NED | 0
+1997 Driver Standings | Jacques Villeneuve | Williams Renault | CAN | 81
+1997 Driver Standings | Michael Schumacher | Ferrari | GER | 78
+1997 Driver Standings | Heinz-Harald Frentzen | Williams Renault | GER | 42
+1997 Driver Standings | David Coulthard | McLaren Mercedes | GBR | 36
+1997 Driver Standings | Jean Alesi | Benetton Renault | FRA | 36
+1997 Driver Standings | Gerhard Berger | Benetton Renault | AUT | 27
+1997 Driver Standings | Mika Hakkinen | McLaren Mercedes | FIN | 27
+1997 Driver Standings | Eddie Irvine | Ferrari | GBR | 24
+1997 Driver Standings | Giancarlo Fisichella | Jordan Peugeot | ITA | 20
+1997 Driver Standings | Olivier Panis | Prost Mugen Honda | FRA | 16
+1997 Driver Standings | Johnny Herbert | Sauber Petronas | GBR | 15
+1997 Driver Standings | Ralf Schumacher | Jordan Peugeot | GER | 13
+1997 Driver Standings | Damon Hill | Arrows Yamaha | GBR | 7
+1997 Driver Standings | Rubens Barrichello | Stewart Ford | BRA | 6
+1997 Driver Standings | Alexander Wurz | Benetton Renault | AUT | 4
+1997 Driver Standings | Jarno Trulli | Prost Mugen Honda | ITA | 3
+1997 Driver Standings | Mika Salo | Tyrrell Ford | FIN | 2
+1997 Driver Standings | Pedro Diniz | Arrows Yamaha | BRA | 2
+1997 Driver Standings | Shinji Nakano | Prost Mugen Honda | JPN | 2
+1997 Driver Standings | Nicola Larini | Sauber Petronas | ITA | 1
+1996 Driver Standings | Damon Hill | Williams Renault | GBR | 97
+1996 Driver Standings | Jacques Villeneuve | Williams Renault | CAN | 78
+1996 Driver Standings | Michael Schumacher | Ferrari | GER | 59
+1996 Driver Standings | Jean Alesi | Benetton Renault | FRA | 47
+1996 Driver Standings | Mika Hakkinen | McLaren Mercedes | FIN | 31
+1996 Driver Standings | Gerhard Berger | Benetton Renault | AUT | 21
+1996 Driver Standings | David Coulthard | McLaren Mercedes | GBR | 18
+1996 Driver Standings | Rubens Barrichello | Jordan Peugeot | BRA | 14
+1996 Driver Standings | Olivier Panis | Ligier Mugen Honda | FRA | 13
+1996 Driver Standings | Eddie Irvine | Ferrari | GBR | 11
+1996 Driver Standings | Martin Brundle | Jordan Peugeot | GBR | 8
+1996 Driver Standings | Heinz-Harald Frentzen | Sauber Ford | GER | 7
+1996 Driver Standings | Mika Salo | Tyrrell Yamaha | FIN | 5
+1996 Driver Standings | Johnny Herbert | Sauber Ford | GBR | 4
+1996 Driver Standings | Pedro Diniz | Ligier Mugen Honda | BRA | 2
+1996 Driver Standings | Jos Verstappen | Footwork Hart | NED | 1
+1995 Driver Standings | Michael Schumacher | Benetton Renault | GER | 102
+1995 Driver Standings | Damon Hill | Williams Renault | GBR | 69
+1995 Driver Standings | David Coulthard | Williams Renault | GBR | 49
+1995 Driver Standings | Johnny Herbert | Benetton Renault | GBR | 45
+1995 Driver Standings | Jean Alesi | Ferrari | FRA | 42
+1995 Driver Standings | Gerhard Berger | Ferrari | AUT | 31
+1995 Driver Standings | Mika Hakkinen | McLaren Mercedes | FIN | 17
+1995 Driver Standings | Olivier Panis | Ligier Mugen Honda | FRA | 16
+1995 Driver Standings | Heinz-Harald Frentzen | Sauber Ford | GER | 15
+1995 Driver Standings | Mark Blundell | McLaren Mercedes | GBR | 13
+1995 Driver Standings | Rubens Barrichello | Jordan Peugeot | BRA | 11
+1995 Driver Standings | Eddie Irvine | Jordan Peugeot | GBR | 10
+1995 Driver Standings | Martin Brundle | Ligier Mugen Honda | GBR | 7
+1995 Driver Standings | Gianni Morbidelli | Footwork Hart | ITA | 5
+1995 Driver Standings | Mika Salo | Tyrrell Yamaha | FIN | 5
+1995 Driver Standings | Jean-Christophe Boullion | Sauber Ford | FRA | 3
+1995 Driver Standings | Aguri Suzuki | Ligier Mugen Honda | JPN | 1
+1995 Driver Standings | Pedro Lamy | Minardi Ford | POR | 1
+1994 Driver Standings | Michael Schumacher | Benetton Ford | GER | 92
+1994 Driver Standings | Damon Hill | Williams Renault | GBR | 91
+1994 Driver Standings | Gerhard Berger | Ferrari | AUT | 41
+1994 Driver Standings | Mika Hakkinen | McLaren Peugeot | FIN | 26
+1994 Driver Standings | Jean Alesi | Ferrari | FRA | 24
+1994 Driver Standings | Rubens Barrichello | Jordan Hart | BRA | 19
+1994 Driver Standings | Martin Brundle | McLaren Peugeot | GBR | 16
+1994 Driver Standings | David Coulthard | Williams Renault | GBR | 14
+1994 Driver Standings | Nigel Mansell | Williams Renault | GBR | 13
+1994 Driver Standings | Jos Verstappen | Benetton Ford | NED | 10
+1994 Driver Standings | Olivier Panis | Ligier Renault | FRA | 9
+1994 Driver Standings | Mark Blundell | Tyrrell Yamaha | GBR | 8
+1994 Driver Standings | Heinz-Harald Frentzen | Sauber Mercedes | GER | 7
+1994 Driver Standings | Nicola Larini | Ferrari | ITA | 6
+1994 Driver Standings | Christian Fittipaldi | Footwork Ford | BRA | 6
+1994 Driver Standings | Eddie Irvine | Jordan Hart | GBR | 6
+1994 Driver Standings | Ukyo Katayama | Tyrrell Yamaha | JPN | 5
+1994 Driver Standings | Eric Bernard | Lotus Mugen Honda | FRA | 4
+1994 Driver Standings | Karl Wendlinger | Sauber Mercedes | AUT | 4
+1994 Driver Standings | Andrea de Cesaris | Sauber Mercedes | ITA | 4
+1994 Driver Standings | Pierluigi Martini | Minardi Ford | ITA | 4
+1994 Driver Standings | Gianni Morbidelli | Footwork Ford | ITA | 3
+1994 Driver Standings | Erik Comas | Larrousse Ford | FRA | 2
+1994 Driver Standings | Michele Alboreto | Minardi Ford | ITA | 1
+1994 Driver Standings | Jyrki Jarvilehto | Sauber Mercedes | FIN | 1
+1993 Driver Standings | Alain Prost | Williams Renault | FRA | 99
+1993 Driver Standings | Ayrton Senna | McLaren Ford | BRA | 73
+1993 Driver Standings | Damon Hill | Williams Renault | GBR | 69
+1993 Driver Standings | Michael Schumacher | Benetton Ford | GER | 52
+1993 Driver Standings | Riccardo Patrese | Benetton Ford | ITA | 20
+1993 Driver Standings | Jean Alesi | Ferrari | FRA | 16
+1993 Driver Standings | Martin Brundle | Ligier Renault | GBR | 13
+1993 Driver Standings | Gerhard Berger | Ferrari | AUT | 12
+1993 Driver Standings | Johnny Herbert | Lotus Ford | GBR | 11
+1993 Driver Standings | Mark Blundell | Ligier Renault | GBR | 10
+1993 Driver Standings | Michael Andretti | McLaren Ford | USA | 7
+1993 Driver Standings | Karl Wendlinger | Sauber | AUT | 7
+1993 Driver Standings | Christian Fittipaldi | Minardi Ford | BRA | 5
+1993 Driver Standings | Jyrki Jarvilehto | Sauber | FIN | 5
+1993 Driver Standings | Mika Hakkinen | McLaren Ford | FIN | 4
+1993 Driver Standings | Derek Warwick | Footwork Mugen Honda | GBR | 4
+1993 Driver Standings | Philippe Alliot | Larrousse Lamborghini | FRA | 2
+1993 Driver Standings | Rubens Barrichello | Jordan Hart | BRA | 2
+1993 Driver Standings | Fabrizio Barbazza | Minardi Ford | ITA | 2
+1993 Driver Standings | Alessandro Zanardi | Lotus Ford | ITA | 1
+1993 Driver Standings | Erik Comas | Larrousse Lamborghini | FRA | 1
+1993 Driver Standings | Eddie Irvine | Jordan Hart | GBR | 1
+1992 Driver Standings | Nigel Mansell | Williams Renault | GBR | 108
+1992 Driver Standings | Riccardo Patrese | Williams Renault | ITA | 56
+1992 Driver Standings | Michael Schumacher | Benetton Ford | GER | 53
+1992 Driver Standings | Ayrton Senna | McLaren Honda | BRA | 50
+1992 Driver Standings | Gerhard Berger | McLaren Honda | AUT | 49
+1992 Driver Standings | Martin Brundle | Benetton Ford | GBR | 38
+1992 Driver Standings | Jean Alesi | Ferrari | FRA | 18
+1992 Driver Standings | Mika Hakkinen | Lotus Ford | FIN | 11
+1992 Driver Standings | Andrea de Cesaris | Tyrrell Ilmor | ITA | 8
+1992 Driver Standings | Michele Alboreto | Footwork Mugen Honda | ITA | 6
+1992 Driver Standings | Erik Comas | Ligier Renault | FRA | 4
+1992 Driver Standings | Karl Wendlinger | March Ilmor | AUT | 3
+1992 Driver Standings | Ivan Capelli | Ferrari | ITA | 3
+1992 Driver Standings | Thierry Boutsen | Ligier Renault | BEL | 2
+1992 Driver Standings | Pierluigi Martini | Dallara Ferrari | ITA | 2
+1992 Driver Standings | Johnny Herbert | Lotus Ford | GBR | 2
+1992 Driver Standings | Stefano Modena | Jordan Yamaha | ITA | 1
+1992 Driver Standings | Christian Fittipaldi | Minardi Lamborghini | BRA | 1
+1992 Driver Standings | Bertrand Gachot | Venturi Lamborghini | FRA | 1
+1991 Driver Standings | Ayrton Senna | McLaren Honda | BRA | 96
+1991 Driver Standings | Nigel Mansell | Williams Renault | GBR | 72
+1991 Driver Standings | Riccardo Patrese | Williams Renault | ITA | 53
+1991 Driver Standings | Gerhard Berger | McLaren Honda | AUT | 43
+1991 Driver Standings | Alain Prost | Ferrari | FRA | 34
+1991 Driver Standings | Nelson Piquet | Benetton Ford | BRA | 26.5
+1991 Driver Standings | Jean Alesi | Ferrari | FRA | 21
+1991 Driver Standings | Stefano Modena | Tyrrell Honda | ITA | 10
+1991 Driver Standings | Andrea de Cesaris | Jordan Ford | ITA | 9
+1991 Driver Standings | Roberto Moreno | Minardi Ferrari | BRA | 8
+1991 Driver Standings | Pierluigi Martini | Minardi Ferrari | ITA | 6
+1991 Driver Standings | Jyrki Jarvilehto | Dallara Judd | FIN | 4
+1991 Driver Standings | Bertrand Gachot | Jordan Ford | FRA | 4
+1991 Driver Standings | Michael Schumacher | Benetton Ford | GER | 4
+1991 Driver Standings | Mika Hakkinen | Lotus Judd | FIN | 2
+1991 Driver Standings | Martin Brundle | Brabham Yamaha | GBR | 2
+1991 Driver Standings | Satoru Nakajima | Tyrrell Honda | JPN | 2
+1991 Driver Standings | Julian Bailey | Lotus Judd | GBR | 1
+1991 Driver Standings | Eric Bernard | Lola Ford | FRA | 1
+1991 Driver Standings | Ivan Capelli | Leyton House Ilmor | ITA | 1
+1991 Driver Standings | Aguri Suzuki | Lola Ford | JPN | 1
+1991 Driver Standings | Emanuele Pirro | Dallara Judd | ITA | 1
+1991 Driver Standings | Mark Blundell | Brabham Yamaha | GBR | 1
+1991 Driver Standings | Gianni Morbidelli | Ferrari | ITA | 0.5
+1990 Driver Standings | Ayrton Senna | McLaren Honda | BRA | 78
+1990 Driver Standings | Alain Prost | Ferrari | FRA | 71
+1990 Driver Standings | Nelson Piquet | Benetton Ford | BRA | 43
+1990 Driver Standings | Gerhard Berger | McLaren Honda | AUT | 43
+1990 Driver Standings | Nigel Mansell | Ferrari | GBR | 37
+1990 Driver Standings | Thierry Boutsen | Williams Renault | BEL | 34
+1990 Driver Standings | Riccardo Patrese | Williams Renault | ITA | 23
+1990 Driver Standings | Alessandro Nannini | Benetton Ford | ITA | 21
+1990 Driver Standings | Jean Alesi | Tyrrell Ford | FRA | 13
+1990 Driver Standings | Ivan Capelli | Leyton House Judd | ITA | 6
+1990 Driver Standings | Roberto Moreno | Benetton Ford | BRA | 6
+1990 Driver Standings | Aguri Suzuki | Lola Lamborghini | JPN | 6
+1990 Driver Standings | Eric Bernard | Lola Lamborghini | FRA | 5
+1990 Driver Standings | Derek Warwick | Lotus Lamborghini | GBR | 3
+1990 Driver Standings | Satoru Nakajima | Tyrrell Ford | JPN | 3
+1990 Driver Standings | Alex Caffi | Arrows Ford | ITA | 2
+1990 Driver Standings | Stefano Modena | Brabham Judd | ITA | 2
+1990 Driver Standings | Mauricio Gugelmin | Leyton House Judd | BRA | 1
+1989 Driver Standings | Alain Prost | McLaren Honda | FRA | 76
+1989 Driver Standings | Ayrton Senna | McLaren Honda | BRA | 60
+1989 Driver Standings | Riccardo Patrese | Williams Renault | ITA | 40
+1989 Driver Standings | Nigel Mansell | Ferrari | GBR | 38
+1989 Driver Standings | Thierry Boutsen | Williams Renault | BEL | 37
+1989 Driver Standings | Alessandro Nannini | Benetton Ford | ITA | 32
+1989 Driver Standings | Gerhard Berger | Ferrari | AUT | 21
+1989 Driver Standings | Nelson Piquet | Lotus Judd | BRA | 12
+1989 Driver Standings | Jean Alesi | Tyrrell Ford | FRA | 8
+1989 Driver Standings | Derek Warwick | Arrows Ford | GBR | 7
+1989 Driver Standings | Stefan Johansson | Onyx Ford | SWE | 6
+1989 Driver Standings | Michele Alboreto | Lola Lamborghini | ITA | 6
+1989 Driver Standings | Eddie  Cheever | Arrows Ford | USA | 6
+1989 Driver Standings | Johnny Herbert | Tyrrell Ford | GBR | 5
+1989 Driver Standings | Pierluigi Martini | Minardi Ford | ITA | 5
+1989 Driver Standings | Andrea de Cesaris | Dallara Ford | ITA | 4
+1989 Driver Standings | Mauricio Gugelmin | March Judd | BRA | 4
+1989 Driver Standings | Stefano Modena | Brabham Judd | ITA | 4
+1989 Driver Standings | Alex Caffi | Dallara Ford | ITA | 4
+1989 Driver Standings | Martin Brundle | Brabham Judd | GBR | 4
+1989 Driver Standings | Christian Danner | Rial Ford | GER | 3
+1989 Driver Standings | Satoru Nakajima | Lotus Judd | JPN | 3
+1989 Driver Standings | Rene Arnoux | Ligier Ford | FRA | 2
+1989 Driver Standings | Emanuele Pirro | Benetton Ford | ITA | 2
+1989 Driver Standings | Jonathan  Palmer | Tyrrell Ford | GBR | 2
+1989 Driver Standings | Gabriele Tarquini | AGS Ford | ITA | 1
+1989 Driver Standings | Philippe Alliot | Lola Lamborghini | FRA | 1
+1989 Driver Standings | Olivier Grouillard | Ligier Ford | FRA | 1
+1989 Driver Standings | Luis Perez-Sala | Minardi Ford | ESP | 1
+1988 Driver Standings | Ayrton Senna | McLaren Honda | BRA | 90
+1988 Driver Standings | Alain Prost | McLaren Honda | FRA | 87
+1988 Driver Standings | Gerhard Berger | Ferrari | AUT | 41
+1988 Driver Standings | Thierry Boutsen | Benetton Ford | BEL | 27
+1988 Driver Standings | Michele Alboreto | Ferrari | ITA | 24
+1988 Driver Standings | Nelson Piquet | Lotus Honda | BRA | 22
+1988 Driver Standings | Ivan Capelli | March Judd | ITA | 17
+1988 Driver Standings | Derek Warwick | Arrows Megatron | GBR | 17
+1988 Driver Standings | Nigel Mansell | Williams Judd | GBR | 12
+1988 Driver Standings | Alessandro Nannini | Benetton Ford | ITA | 12
+1988 Driver Standings | Riccardo Patrese | Williams Judd | ITA | 8
+1988 Driver Standings | Eddie  Cheever | Arrows Megatron | USA | 6
+1988 Driver Standings | Mauricio Gugelmin | March Judd | BRA | 5
+1988 Driver Standings | Jonathan  Palmer | Tyrrell Ford | GBR | 5
+1988 Driver Standings | Andrea de Cesaris | Rial Ford | ITA | 3
+1988 Driver Standings | Pierluigi Martini | Minardi Ford | ITA | 1
+1988 Driver Standings | Satoru Nakajima | Lotus Honda | JPN | 1
+1987 Driver Standings | Nelson Piquet | Williams Honda | BRA | 73
+1987 Driver Standings | Nigel Mansell | Williams Honda | GBR | 61
+1987 Driver Standings | Ayrton Senna | Lotus Honda | BRA | 57
+1987 Driver Standings | Alain Prost | McLaren TAG | FRA | 46
+1987 Driver Standings | Gerhard Berger | Ferrari | AUT | 36
+1987 Driver Standings | Stefan Johansson | McLaren TAG | SWE | 30
+1987 Driver Standings | Michele Alboreto | Ferrari | ITA | 17
+1987 Driver Standings | Thierry Boutsen | Benetton Ford | BEL | 16
+1987 Driver Standings | Teo Fabi | Benetton Ford | ITA | 12
+1987 Driver Standings | Eddie  Cheever | Arrows Megatron | USA | 8
+1987 Driver Standings | Jonathan  Palmer | Tyrrell Ford | GBR | 7
+1987 Driver Standings | Satoru Nakajima | Lotus Honda | JPN | 7
+1987 Driver Standings | Riccardo Patrese | Williams Honda | ITA | 6
+1987 Driver Standings | Andrea de Cesaris | Brabham BMW | ITA | 4
+1987 Driver Standings | Philippe Streiff | Tyrrell Ford | FRA | 4
+1987 Driver Standings | Derek Warwick | Arrows Megatron | GBR | 3
+1987 Driver Standings | Philippe Alliot | Lola Ford | FRA | 3
+1987 Driver Standings | Martin Brundle | Zakspeed | GBR | 2
+1987 Driver Standings | Rene Arnoux | Ligier Megatron | FRA | 1
+1987 Driver Standings | Ivan Capelli | March Ford | ITA | 1
+1987 Driver Standings | Roberto Moreno | AGS Ford | BRA | 1
+1986 Driver Standings | Alain Prost | McLaren TAG | FRA | 72
+1986 Driver Standings | Nigel Mansell | Williams Honda | GBR | 70
+1986 Driver Standings | Nelson Piquet | Williams Honda | BRA | 69
+1986 Driver Standings | Ayrton Senna | Lotus Renault | BRA | 55
+1986 Driver Standings | Stefan Johansson | Ferrari | SWE | 23
+1986 Driver Standings | Keke Rosberg | McLaren TAG | FIN | 22
+1986 Driver Standings | Gerhard Berger | Benetton BMW | AUT | 17
+1986 Driver Standings | Jacques Laffite | Ligier Renault | FRA | 14
+1986 Driver Standings | Michele Alboreto | Ferrari | ITA | 14
+1986 Driver Standings | Rene Arnoux | Ligier Renault | FRA | 14
+1986 Driver Standings | Martin Brundle | Tyrrell Renault | GBR | 8
+1986 Driver Standings | Alan  Jones | Lola Ford | AUS | 4
+1986 Driver Standings | Johnny Dumfries | Lotus Renault | GBR | 3
+1986 Driver Standings | Philippe Streiff | Tyrrell Renault | FRA | 3
+1986 Driver Standings | Teo Fabi | Benetton BMW | ITA | 2
+1986 Driver Standings | Patrick Tambay | Lola Ford | FRA | 2
+1986 Driver Standings | Riccardo Patrese | Brabham BMW | ITA | 2
+1986 Driver Standings | Philippe Alliot | Ligier Renault | FRA | 1
+1986 Driver Standings | Christian Danner | Arrows BMW | GER | 1
+1985 Driver Standings | Alain Prost | McLaren TAG | FRA | 73
+1985 Driver Standings | Michele Alboreto | Ferrari | ITA | 53
+1985 Driver Standings | Keke Rosberg | Williams Honda | FIN | 40
+1985 Driver Standings | Ayrton Senna | Lotus Renault | BRA | 38
+1985 Driver Standings | Elio de Angelis | Lotus Renault | ITA | 33
+1985 Driver Standings | Nigel Mansell | Williams Honda | GBR | 31
+1985 Driver Standings | Stefan Johansson | Ferrari | SWE | 26
+1985 Driver Standings | Nelson Piquet | Brabham BMW | BRA | 21
+1985 Driver Standings | Jacques Laffite | Ligier Renault | FRA | 16
+1985 Driver Standings | Niki Lauda | McLaren TAG | AUT | 14
+1985 Driver Standings | Thierry Boutsen | Arrows BMW | BEL | 11
+1985 Driver Standings | Patrick Tambay | Renault | FRA | 11
+1985 Driver Standings | Marc Surer | Brabham BMW | SUI | 5
+1985 Driver Standings | Derek Warwick | Renault | GBR | 5
+1985 Driver Standings | Philippe Streiff | Ligier Renault | FRA | 4
+1985 Driver Standings | Stefan Bellof | Tyrrell Renault | GER | 4
+1985 Driver Standings | Andrea de Cesaris | Ligier Renault | ITA | 3
+1985 Driver Standings | Rene Arnoux | Ferrari | FRA | 3
+1985 Driver Standings | Ivan Capelli | Tyrrell Renault | ITA | 3
+1985 Driver Standings | Gerhard Berger | Arrows BMW | AUT | 3
+1984 Driver Standings | Niki Lauda | McLaren TAG | AUT | 72
+1984 Driver Standings | Alain Prost | McLaren TAG | FRA | 71.5
+1984 Driver Standings | Elio de Angelis | Lotus Renault | ITA | 34
+1984 Driver Standings | Michele Alboreto | Ferrari | ITA | 30.5
+1984 Driver Standings | Nelson Piquet | Brabham BMW | BRA | 29
+1984 Driver Standings | Rene Arnoux | Ferrari | FRA | 27
+1984 Driver Standings | Derek Warwick | Renault | GBR | 23
+1984 Driver Standings | Keke Rosberg | Williams Honda | FIN | 20.5
+1984 Driver Standings | Ayrton Senna | Toleman Hart | BRA | 13
+1984 Driver Standings | Nigel Mansell | Lotus Renault | GBR | 13
+1984 Driver Standings | Patrick Tambay | Renault | FRA | 11
+1984 Driver Standings | Teo Fabi | Brabham BMW | ITA | 9
+1984 Driver Standings | Riccardo Patrese | Alfa Romeo | ITA | 8
+1984 Driver Standings | Jacques Laffite | Williams Honda | FRA | 5
+1984 Driver Standings | Thierry Boutsen | Arrows BMW | BEL | 5
+1984 Driver Standings | Eddie  Cheever | Alfa Romeo | USA | 3
+1984 Driver Standings | Stefan Johansson | Toleman Hart | SWE | 3
+1984 Driver Standings | Andrea de Cesaris | Ligier Renault | ITA | 3
+1984 Driver Standings | Piercarlo Ghinzani | Osella Alfa Romeo | ITA | 2
+1984 Driver Standings | Marc Surer | Arrows BMW | SUI | 1
+1983 Driver Standings | Nelson Piquet | Brabham BMW | BRA | 59
+1983 Driver Standings | Alain Prost | Renault | FRA | 57
+1983 Driver Standings | Rene Arnoux | Ferrari | FRA | 49
+1983 Driver Standings | Patrick Tambay | Ferrari | FRA | 40
+1983 Driver Standings | Keke Rosberg | Williams Honda | FIN | 27
+1983 Driver Standings | John Watson | McLaren Ford | GBR | 22
+1983 Driver Standings | Eddie  Cheever | Renault | USA | 22
+1983 Driver Standings | Andrea de Cesaris | Alfa Romeo | ITA | 15
+1983 Driver Standings | Riccardo Patrese | Brabham BMW | ITA | 13
+1983 Driver Standings | Niki Lauda | McLaren TAG | AUT | 12
+1983 Driver Standings | Jacques Laffite | Williams Honda | FRA | 11
+1983 Driver Standings | Michele Alboreto | Tyrrell Ford | ITA | 10
+1983 Driver Standings | Nigel Mansell | Lotus Renault | GBR | 10
+1983 Driver Standings | Derek Warwick | Toleman Hart | GBR | 9
+1983 Driver Standings | Marc Surer | Arrows Ford | SUI | 4
+1983 Driver Standings | Mauro Baldi | Alfa Romeo | ITA | 3
+1983 Driver Standings | Elio de Angelis | Lotus Renault | ITA | 2
+1983 Driver Standings | Danny Sullivan | Tyrrell Ford | USA | 2
+1983 Driver Standings | Bruno Giacomelli | Toleman Hart | ITA | 1
+1983 Driver Standings | Johnny Cecotto | Theodore Ford | VEN | 1
+1982 Driver Standings | Keke Rosberg | Williams Ford | FIN | 44
+1982 Driver Standings | Didier Pironi | Ferrari | FRA | 39
+1982 Driver Standings | John Watson | McLaren Ford | GBR | 39
+1982 Driver Standings | Alain Prost | Renault | FRA | 34
+1982 Driver Standings | Niki Lauda | McLaren Ford | AUT | 30
+1982 Driver Standings | Rene Arnoux | Renault | FRA | 28
+1982 Driver Standings | Patrick Tambay | Ferrari | FRA | 25
+1982 Driver Standings | Michele Alboreto | Tyrrell Ford | ITA | 25
+1982 Driver Standings | Elio de Angelis | Lotus Ford | ITA | 23
+1982 Driver Standings | Riccardo Patrese | Brabham BMW | ITA | 21
+1982 Driver Standings | Nelson Piquet | Brabham BMW | BRA | 20
+1982 Driver Standings | Eddie  Cheever | Ligier Matra | USA | 15
+1982 Driver Standings | Derek Daly | Williams Ford | IRL | 8
+1982 Driver Standings | Nigel Mansell | Lotus Ford | GBR | 7
+1982 Driver Standings | Carlos Reutemann | Williams Ford | ARG | 6
+1982 Driver Standings | Gilles Villeneuve | Ferrari | CAN | 6
+1982 Driver Standings | Andrea de Cesaris | Alfa Romeo | ITA | 5
+1982 Driver Standings | Jacques Laffite | Ligier Matra | FRA | 5
+1982 Driver Standings | Mario Andretti | Ferrari | USA | 4
+1982 Driver Standings | Jean-Pierre Jarier | Osella Ford | FRA | 3
+1982 Driver Standings | Marc Surer | Arrows Ford | SUI | 3
+1982 Driver Standings | Manfred Winkelhock | ATS Ford | GER | 2
+1982 Driver Standings | Eliseo Salazar | ATS Ford | CHI | 2
+1982 Driver Standings | Bruno Giacomelli | Alfa Romeo | ITA | 2
+1982 Driver Standings | Mauro Baldi | Arrows Ford | ITA | 2
+1982 Driver Standings | Chico Serra | Fittipaldi Ford | BRA | 1
+1981 Driver Standings | Nelson Piquet | Brabham Ford | BRA | 50
+1981 Driver Standings | Carlos Reutemann | Williams Ford | ARG | 49
+1981 Driver Standings | Alan  Jones | Williams Ford | AUS | 46
+1981 Driver Standings | Jacques Laffite | Ligier Matra | FRA | 44
+1981 Driver Standings | Alain Prost | Renault | FRA | 43
+1981 Driver Standings | John Watson | McLaren Ford | GBR | 27
+1981 Driver Standings | Gilles Villeneuve | Ferrari | CAN | 25
+1981 Driver Standings | Elio de Angelis | Lotus Ford | ITA | 14
+1981 Driver Standings | Rene Arnoux | Renault | FRA | 11
+1981 Driver Standings | Hector Rebaque | Brabham Ford | MEX | 11
+1981 Driver Standings | Riccardo Patrese | Arrows Ford | ITA | 10
+1981 Driver Standings | Eddie  Cheever | Tyrrell Ford | USA | 10
+1981 Driver Standings | Didier Pironi | Ferrari | FRA | 9
+1981 Driver Standings | Nigel Mansell | Lotus Ford | GBR | 8
+1981 Driver Standings | Bruno Giacomelli | Alfa Romeo | ITA | 7
+1981 Driver Standings | Marc Surer | Theodore Ford | SUI | 4
+1981 Driver Standings | Mario Andretti | Alfa Romeo | USA | 3
+1981 Driver Standings | Patrick Tambay | Ligier Matra | FRA | 1
+1981 Driver Standings | Andrea de Cesaris | McLaren Ford | ITA | 1
+1981 Driver Standings | Slim Borgudd | ATS Ford | SWE | 1
+1981 Driver Standings | Eliseo Salazar | Ensign Ford | CHI | 1
+1980 Driver Standings | Alan  Jones | Williams Ford | AUS | 67
+1980 Driver Standings | Nelson Piquet | Brabham Ford | BRA | 54
+1980 Driver Standings | Carlos Reutemann | Williams Ford | ARG | 42
+1980 Driver Standings | Jacques Laffite | Ligier Ford | FRA | 34
+1980 Driver Standings | Didier Pironi | Ligier Ford | FRA | 32
+1980 Driver Standings | Rene Arnoux | Renault | FRA | 29
+1980 Driver Standings | Elio de Angelis | Lotus Ford | ITA | 13
+1980 Driver Standings | Jean-Pierre Jabouille | Renault | FRA | 9
+1980 Driver Standings | Riccardo Patrese | Arrows Ford | ITA | 7
+1980 Driver Standings | Keke Rosberg | Fittipaldi Ford | FIN | 6
+1980 Driver Standings | Derek Daly | Tyrrell Ford | IRL | 6
+1980 Driver Standings | John Watson | McLaren Ford | GBR | 6
+1980 Driver Standings | Jean-Pierre Jarier | Tyrrell Ford | FRA | 6
+1980 Driver Standings | Gilles Villeneuve | Ferrari | CAN | 6
+1980 Driver Standings | Emerson Fittipaldi | Fittipaldi Ford | BRA | 5
+1980 Driver Standings | Alain Prost | McLaren Ford | FRA | 5
+1980 Driver Standings | Jochen Mass | Arrows Ford | GER | 4
+1980 Driver Standings | Bruno Giacomelli | Alfa Romeo | ITA | 4
+1980 Driver Standings | Jody Scheckter | Ferrari | RSA | 2
+1980 Driver Standings | Hector Rebaque | Brabham Ford | MEX | 1
+1980 Driver Standings | Mario Andretti | Lotus Ford | USA | 1
+1979 Driver Standings | Jody Scheckter | Ferrari | RSA | 51
+1979 Driver Standings | Gilles Villeneuve | Ferrari | CAN | 47
+1979 Driver Standings | Alan  Jones | Williams Ford | AUS | 40
+1979 Driver Standings | Jacques Laffite | Ligier Ford | FRA | 36
+1979 Driver Standings | Clay Regazzoni | Williams Ford | SUI | 29
+1979 Driver Standings | Patrick Depailler | Ligier Ford | FRA | 20
+1979 Driver Standings | Carlos Reutemann | Lotus Ford | ARG | 20
+1979 Driver Standings | Rene Arnoux | Renault | FRA | 17
+1979 Driver Standings | John Watson | McLaren Ford | GBR | 15
+1979 Driver Standings | Didier Pironi | Tyrrell Ford | FRA | 14
+1979 Driver Standings | Jean-Pierre Jarier | Tyrrell Ford | FRA | 14
+1979 Driver Standings | Mario Andretti | Lotus Ford | USA | 14
+1979 Driver Standings | Jean-Pierre Jabouille | Renault | FRA | 9
+1979 Driver Standings | Niki Lauda | Brabham Ford | AUT | 4
+1979 Driver Standings | Nelson Piquet | Brabham Ford | BRA | 3
+1979 Driver Standings | Elio de Angelis | Shadow Ford | ITA | 3
+1979 Driver Standings | Jacky Ickx | Ligier Ford | BEL | 3
+1979 Driver Standings | Jochen Mass | Arrows Ford | GER | 3
+1979 Driver Standings | Riccardo Patrese | Arrows Ford | ITA | 2
+1979 Driver Standings | Hans-Joachim Stuck | ATS Ford | GER | 2
+1979 Driver Standings | Emerson Fittipaldi | Fittipaldi Ford | BRA | 1
+1978 Driver Standings | Mario Andretti | Lotus Ford | USA | 64
+1978 Driver Standings | Ronnie Peterson | Lotus Ford | SWE | 51
+1978 Driver Standings | Carlos Reutemann | Ferrari | ARG | 48
+1978 Driver Standings | Niki Lauda | Brabham Alfa Romeo | AUT | 44
+1978 Driver Standings | Patrick Depailler | Tyrrell Ford | FRA | 34
+1978 Driver Standings | John Watson | Brabham Alfa Romeo | GBR | 25
+1978 Driver Standings | Jody Scheckter | Wolf Ford | RSA | 24
+1978 Driver Standings | Jacques Laffite | Ligier Matra | FRA | 19
+1978 Driver Standings | Gilles Villeneuve | Ferrari | CAN | 17
+1978 Driver Standings | Emerson Fittipaldi | Fittipaldi Ford | BRA | 17
+1978 Driver Standings | Alan  Jones | Williams Ford | AUS | 11
+1978 Driver Standings | Riccardo Patrese | Arrows Ford | ITA | 11
+1978 Driver Standings | James Hunt | McLaren Ford | GBR | 8
+1978 Driver Standings | Patrick Tambay | McLaren Ford | FRA | 8
+1978 Driver Standings | Didier Pironi | Tyrrell Ford | FRA | 7
+1978 Driver Standings | Clay Regazzoni | Shadow Ford | SUI | 4
+1978 Driver Standings | Jean-Pierre Jabouille | Renault | FRA | 3
+1978 Driver Standings | Hans-Joachim Stuck | Shadow Ford | GER | 2
+1978 Driver Standings | Hector Rebaque | Lotus Ford | MEX | 1
+1978 Driver Standings | Vittorio Brambilla | Surtees Ford | ITA | 1
+1978 Driver Standings | Derek Daly | Ensign Ford | IRL | 1
+1977 Driver Standings | Niki Lauda | Ferrari | AUT | 72
+1977 Driver Standings | Jody Scheckter | Wolf Ford | RSA | 55
+1977 Driver Standings | Mario Andretti | Lotus Ford | USA | 47
+1977 Driver Standings | Carlos Reutemann | Ferrari | ARG | 42
+1977 Driver Standings | James Hunt | McLaren Ford | GBR | 40
+1977 Driver Standings | Jochen Mass | McLaren Ford | GER | 25
+1977 Driver Standings | Alan  Jones | Shadow Ford | AUS | 22
+1977 Driver Standings | Gunnar Nilsson | Lotus Ford | SWE | 20
+1977 Driver Standings | Patrick Depailler | Tyrrell Ford | FRA | 20
+1977 Driver Standings | Jacques Laffite | Ligier Matra | FRA | 18
+1977 Driver Standings | Hans-Joachim Stuck | Brabham Alfa Romeo | GER | 12
+1977 Driver Standings | Emerson Fittipaldi | Fittipaldi Ford | BRA | 11
+1977 Driver Standings | John Watson | Brabham Alfa Romeo | GBR | 9
+1977 Driver Standings | Ronnie Peterson | Tyrrell Ford | SWE | 7
+1977 Driver Standings | Carlos Pace | Brabham Alfa Romeo | BRA | 6
+1977 Driver Standings | Vittorio Brambilla | Surtees Ford | ITA | 6
+1977 Driver Standings | Patrick Tambay | Ensign Ford | FRA | 5
+1977 Driver Standings | Clay Regazzoni | Ensign Ford | SUI | 5
+1977 Driver Standings | Renzo Zorzi | Shadow Ford | ITA | 1
+1977 Driver Standings | Jean-Pierre Jarier | Ligier Matra | FRA | 1
+1977 Driver Standings | Riccardo Patrese | Shadow Ford | ITA | 1
+1976 Driver Standings | James Hunt | McLaren Ford | GBR | 69
+1976 Driver Standings | Niki Lauda | Ferrari | AUT | 68
+1976 Driver Standings | Jody Scheckter | Tyrrell Ford | RSA | 49
+1976 Driver Standings | Patrick Depailler | Tyrrell Ford | FRA | 39
+1976 Driver Standings | Clay Regazzoni | Ferrari | SUI | 31
+1976 Driver Standings | Mario Andretti | Lotus Ford | USA | 22
+1976 Driver Standings | John Watson | Penske Ford | GBR | 20
+1976 Driver Standings | Jacques Laffite | Ligier Matra | FRA | 20
+1976 Driver Standings | Jochen Mass | McLaren Ford | GER | 19
+1976 Driver Standings | Gunnar Nilsson | Lotus Ford | SWE | 11
+1976 Driver Standings | Ronnie Peterson | March Ford | SWE | 10
+1976 Driver Standings | Tom Pryce | Shadow Ford | GBR | 10
+1976 Driver Standings | Hans-Joachim Stuck | March Ford | GER | 8
+1976 Driver Standings | Carlos Pace | Brabham Alfa Romeo | BRA | 7
+1976 Driver Standings | Alan  Jones | Surtees Ford | AUS | 7
+1976 Driver Standings | Carlos Reutemann | Ferrari | ARG | 3
+1976 Driver Standings | Emerson Fittipaldi | Fittipaldi Ford | BRA | 3
+1976 Driver Standings | Chris Amon | Wolf-Williams | NZL | 2
+1976 Driver Standings | Rolf Stommelen | Brabham Alfa Romeo | GER | 1
+1976 Driver Standings | Vittorio Brambilla | March Ford | ITA | 1
+1975 Driver Standings | Niki Lauda | Ferrari | AUT | 64.5
+1975 Driver Standings | Emerson Fittipaldi | McLaren Ford | BRA | 45
+1975 Driver Standings | Carlos Reutemann | Brabham Ford | ARG | 37
+1975 Driver Standings | James Hunt | Hesketh Ford | GBR | 33
+1975 Driver Standings | Clay Regazzoni | Ferrari | SUI | 25
+1975 Driver Standings | Carlos Pace | Brabham Ford | BRA | 24
+1975 Driver Standings | Jody Scheckter | Tyrrell Ford | RSA | 20
+1975 Driver Standings | Jochen Mass | McLaren Ford | GER | 20
+1975 Driver Standings | Patrick Depailler | Tyrrell Ford | FRA | 12
+1975 Driver Standings | Tom Pryce | Shadow Ford | GBR | 8
+1975 Driver Standings | Vittorio Brambilla | March Ford | ITA | 6.5
+1975 Driver Standings | Jacques Laffite | Frank Williams Racing Cars/Williams | FRA | 6
+1975 Driver Standings | Ronnie Peterson | Lotus Ford | SWE | 6
+1975 Driver Standings | Mario Andretti | Parnelli Ford | USA | 5
+1975 Driver Standings | Mark Donohue | March Ford | USA | 4
+1975 Driver Standings | Jacky Ickx | Lotus Ford | BEL | 3
+1975 Driver Standings | Alan  Jones | Hill Ford | AUS | 2
+1975 Driver Standings | Jean-Pierre Jarier | Shadow Ford | FRA | 1.5
+1975 Driver Standings | Tony Brise | Hill Ford | GBR | 1
+1975 Driver Standings | Gijs van Lennep | Ensign Ford | NED | 1
+1975 Driver Standings | Lella Lombardi | Frank Williams Racing Cars/Williams | ITA | 0.5
+1974 Driver Standings | Emerson Fittipaldi | McLaren Ford | BRA | 55
+1974 Driver Standings | Clay Regazzoni | Ferrari | SUI | 52
+1974 Driver Standings | Jody Scheckter | Tyrrell Ford | RSA | 45
+1974 Driver Standings | Niki Lauda | Ferrari | AUT | 38
+1974 Driver Standings | Ronnie Peterson | Lotus Ford | SWE | 35
+1974 Driver Standings | Carlos Reutemann | Brabham Ford | ARG | 32
+1974 Driver Standings | Denny Hulme | McLaren Ford | NZL | 20
+1974 Driver Standings | James Hunt | Hesketh Ford | GBR | 15
+1974 Driver Standings | Patrick Depailler | Tyrrell Ford | FRA | 14
+1974 Driver Standings | Jacky Ickx | Lotus Ford | BEL | 12
+1974 Driver Standings | Mike Hailwood | McLaren Ford | GBR | 12
+1974 Driver Standings | Carlos Pace | Brabham Ford | BRA | 11
+1974 Driver Standings | Jean-Pierre Beltoise | BRM | FRA | 10
+1974 Driver Standings | Jean-Pierre Jarier | Shadow Ford | FRA | 6
+1974 Driver Standings | John Watson | Brabham Ford | GBR | 6
+1974 Driver Standings | Hans-Joachim Stuck | March Ford | GER | 5
+1974 Driver Standings | Arturo Merzario | Iso Marlboro Ford | ITA | 4
+1974 Driver Standings | Graham Hill | Lola Ford | GBR | 1
+1974 Driver Standings | Tom Pryce | Shadow Ford | GBR | 1
+1974 Driver Standings | Vittorio Brambilla | March Ford | ITA | 1
+1973 Driver Standings | Jackie Stewart | Tyrrell Ford | GBR | 71
+1973 Driver Standings | Emerson Fittipaldi | Lotus Ford | BRA | 55
+1973 Driver Standings | Ronnie Peterson | Lotus Ford | SWE | 52
+1973 Driver Standings | Francois  Cevert  | Tyrrell Ford | FRA | 47
+1973 Driver Standings | Peter   Revson | McLaren Ford | USA | 38
+1973 Driver Standings | Denny Hulme | McLaren Ford | NZL | 26
+1973 Driver Standings | Carlos Reutemann | Brabham Ford | ARG | 16
+1973 Driver Standings | James Hunt | March Ford | GBR | 14
+1973 Driver Standings | Jacky Ickx | Iso Marlboro Ford | BEL | 12
+1973 Driver Standings | Jean-Pierre Beltoise | BRM | FRA | 9
+1973 Driver Standings | Carlos Pace | Surtees Ford | BRA | 7
+1973 Driver Standings | Arturo Merzario | Ferrari | ITA | 6
+1973 Driver Standings | George  Follmer  | Shadow Ford | USA | 5
+1973 Driver Standings | Jackie Oliver | Shadow Ford | GBR | 4
+1973 Driver Standings | Andrea de Adamich  | Brabham Ford | ITA | 3
+1973 Driver Standings | Wilson Fittipaldi | Brabham Ford | BRA | 3
+1973 Driver Standings | Niki Lauda | BRM | AUT | 2
+1973 Driver Standings | Clay Regazzoni | BRM | SUI | 2
+1973 Driver Standings | Chris Amon | Tyrrell Ford | NZL | 1
+1973 Driver Standings | Gijs van Lennep | Iso Marlboro Ford | NED | 1
+1973 Driver Standings | Howden  Ganley  | Iso Marlboro Ford | NZL | 1
+1972 Driver Standings | Emerson Fittipaldi | Lotus Ford | BRA | 61
+1972 Driver Standings | Jackie Stewart | Tyrrell Ford | GBR | 45
+1972 Driver Standings | Denny Hulme | McLaren Ford | NZL | 39
+1972 Driver Standings | Jacky Ickx | Ferrari | BEL | 27
+1972 Driver Standings | Peter   Revson | McLaren Ford | USA | 23
+1972 Driver Standings | Francois  Cevert  | Tyrrell Ford | FRA | 15
+1972 Driver Standings | Clay Regazzoni | Ferrari | SUI | 15
+1972 Driver Standings | Mike Hailwood | Surtees Ford | GBR | 13
+1972 Driver Standings | Ronnie Peterson | March Ford | SWE | 12
+1972 Driver Standings | Chris Amon | Matra | NZL | 12
+1972 Driver Standings | Jean-Pierre Beltoise | BRM | FRA | 9
+1972 Driver Standings | Mario Andretti | Ferrari | USA | 4
+1972 Driver Standings | Howden  Ganley  | BRM | NZL | 4
+1972 Driver Standings | Brian   Redman | BRM | GBR | 4
+1972 Driver Standings | Graham Hill | Brabham Ford | GBR | 4
+1972 Driver Standings | Andrea de Adamich  | Surtees Ford | ITA | 3
+1972 Driver Standings | Carlos Reutemann | Brabham Ford | ARG | 3
+1972 Driver Standings | Carlos Pace | March Ford | BRA | 3
+1972 Driver Standings | Tim   Schenken | Surtees Ford | AUS | 2
+1972 Driver Standings | Arturo Merzario | Ferrari | ITA | 1
+1972 Driver Standings | Peter  Gethin  | BRM | GBR | 1
+1971 Driver Standings | Jackie Stewart | Tyrrell Ford | GBR | 62
+1971 Driver Standings | Ronnie Peterson | null | SWE | 33
+1971 Driver Standings | Francois  Cevert  | Tyrrell Ford | FRA | 26
+1971 Driver Standings | Jacky Ickx | Ferrari | BEL | 19
+1971 Driver Standings | Jo Siffert | BRM | SUI | 19
+1971 Driver Standings | Emerson Fittipaldi | Lotus Ford | BRA | 16
+1971 Driver Standings | Clay Regazzoni | Ferrari | SUI | 13
+1971 Driver Standings | Mario Andretti | Ferrari | USA | 12
+1971 Driver Standings | Peter  Gethin  | BRM | GBR | 9
+1971 Driver Standings | Pedro Rodriguez | BRM | MEX | 9
+1971 Driver Standings | Chris Amon | Matra | NZL | 9
+1971 Driver Standings | Reine   Wisell | Lotus Ford | SWE | 9
+1971 Driver Standings | Denny Hulme | McLaren Ford | NZL | 9
+1971 Driver Standings | Tim   Schenken | Brabham Ford | AUS | 5
+1971 Driver Standings | Howden  Ganley  | BRM | NZL | 5
+1971 Driver Standings | Mark Donohue | null | USA | 4
+1971 Driver Standings | Henri Pescarolo | null | FRA | 4
+1971 Driver Standings | Mike Hailwood | Surtees Ford | GBR | 3
+1971 Driver Standings | John Surtees | Surtees Ford | GBR | 3
+1971 Driver Standings | Rolf Stommelen | Surtees Ford | GER | 3
+1971 Driver Standings | Graham Hill | Brabham Ford | GBR | 2
+1971 Driver Standings | Jean-Pierre Beltoise | Matra | FRA | 1
+1970 Driver Standings | Jochen Rindt | Lotus Ford | AUT | 45
+1970 Driver Standings | Jacky Ickx | Ferrari | BEL | 40
+1970 Driver Standings | Clay Regazzoni | Ferrari | SUI | 33
+1970 Driver Standings | Denny Hulme | McLaren Ford | NZL | 27
+1970 Driver Standings | Jack Brabham | Brabham Ford | AUS | 25
+1970 Driver Standings | Jackie Stewart | Tyrrell Ford | GBR | 25
+1970 Driver Standings | Pedro Rodriguez | BRM | MEX | 23
+1970 Driver Standings | Chris Amon | March Ford | NZL | 23
+1970 Driver Standings | Jean-Pierre Beltoise | Matra | FRA | 16
+1970 Driver Standings | Emerson Fittipaldi | Lotus Ford | BRA | 12
+1970 Driver Standings | Rolf Stommelen | Brabham Ford | GER | 10
+1970 Driver Standings | Henri Pescarolo | Matra | FRA | 8
+1970 Driver Standings | Graham Hill | Lotus Ford | GBR | 7
+1970 Driver Standings | Bruce McLaren | McLaren Ford | NZL | 6
+1970 Driver Standings | Mario Andretti | March Ford | USA | 4
+1970 Driver Standings | Reine   Wisell | Lotus Ford | SWE | 4
+1970 Driver Standings | Ignazio  Giunti  | Ferrari | ITA | 3
+1970 Driver Standings | John Surtees | Surtees Ford | GBR | 3
+1970 Driver Standings | John   Miles | Lotus Ford | GBR | 2
+1970 Driver Standings | Johnny  Servoz-Gavin  | March Ford | FRA | 2
+1970 Driver Standings | Jackie Oliver | BRM | GBR | 2
+1970 Driver Standings | Dan Gurney | McLaren Ford | USA | 1
+1970 Driver Standings | Francois  Cevert  | March Ford | FRA | 1
+1970 Driver Standings | Peter  Gethin  | McLaren Ford | GBR | 1
+1970 Driver Standings | Derek Bell | Surtees Ford | GBR | 1
+1969 Driver Standings | Jackie Stewart | Matra Ford | GBR | 63
+1969 Driver Standings | Jacky Ickx | Brabham Ford | BEL | 37
+1969 Driver Standings | Bruce McLaren | McLaren Ford | NZL | 26
+1969 Driver Standings | Jochen Rindt | Lotus Ford | AUT | 22
+1969 Driver Standings | Jean-Pierre Beltoise | Matra Ford | FRA | 21
+1969 Driver Standings | Denny Hulme | McLaren Ford | NZL | 20
+1969 Driver Standings | Graham Hill | Lotus Ford | GBR | 19
+1969 Driver Standings | Piers   Courage | Brabham Ford | GBR | 16
+1969 Driver Standings | Jo Siffert | Lotus Ford | SUI | 15
+1969 Driver Standings | Jack Brabham | Brabham Ford | AUS | 14
+1969 Driver Standings | John Surtees | BRM | GBR | 6
+1969 Driver Standings | Chris Amon | Ferrari | NZL | 4
+1969 Driver Standings | Richard Attwood | null | GBR | 3
+1969 Driver Standings | Vic  Elford  | McLaren Ford | GBR | 3
+1969 Driver Standings | Pedro Rodriguez | Ferrari | MEX | 3
+1969 Driver Standings | Johnny  Servoz-Gavin  | Matra Ford | FRA | 1
+1969 Driver Standings | Silvio  Moser  | Brabham Ford | SUI | 1
+1969 Driver Standings | Jackie Oliver | BRM | GBR | 1
+1968 Driver Standings | Graham Hill | Lotus Ford | GBR | 48
+1968 Driver Standings | Jackie Stewart | Matra Ford | GBR | 36
+1968 Driver Standings | Denny Hulme | McLaren Ford | NZL | 33
+1968 Driver Standings | Jacky Ickx | Ferrari | BEL | 27
+1968 Driver Standings | Bruce McLaren | McLaren Ford | NZL | 22
+1968 Driver Standings | Pedro Rodriguez | BRM | MEX | 18
+1968 Driver Standings | Jo Siffert | Lotus Ford | SUI | 12
+1968 Driver Standings | John Surtees | Honda | GBR | 12
+1968 Driver Standings | Jean-Pierre Beltoise | Matra | FRA | 11
+1968 Driver Standings | Chris Amon | Ferrari | NZL | 10
+1968 Driver Standings | Jim Clark | Lotus Ford | GBR | 9
+1968 Driver Standings | Jochen Rindt | Brabham Repco | AUT | 8
+1968 Driver Standings | Richard Attwood | BRM | GBR | 6
+1968 Driver Standings | Johnny  Servoz-Gavin  | Matra Ford | FRA | 6
+1968 Driver Standings | Jackie Oliver | Lotus Ford | GBR | 6
+1968 Driver Standings | Ludovico Scarfiotti | Cooper BRM | ITA | 6
+1968 Driver Standings | Lucien Bianchi | Cooper BRM | BEL | 5
+1968 Driver Standings | Vic  Elford  | Cooper BRM | GBR | 5
+1968 Driver Standings | Brian   Redman | Cooper BRM | GBR | 4
+1968 Driver Standings | Piers   Courage | BRM | GBR | 4
+1968 Driver Standings | Dan Gurney | McLaren Ford | USA | 3
+1968 Driver Standings | Jo Bonnier | Honda | SWE | 3
+1968 Driver Standings | Silvio  Moser  | Brabham Repco | SUI | 2
+1968 Driver Standings | Jack Brabham | Brabham Repco | AUS | 2
+1967 Driver Standings | Denny Hulme | Brabham Repco | NZL | 51
+1967 Driver Standings | Jack Brabham | Brabham Repco | AUS | 46
+1967 Driver Standings | Jim Clark | Lotus Ford | GBR | 41
+1967 Driver Standings | John Surtees | Honda | GBR | 20
+1967 Driver Standings | Chris Amon | Ferrari | NZL | 20
+1967 Driver Standings | Pedro Rodriguez | Cooper Maserati | MEX | 15
+1967 Driver Standings | Graham Hill | Lotus Ford | GBR | 15
+1967 Driver Standings | Dan Gurney | Eagle Climax | USA | 13
+1967 Driver Standings | Jackie Stewart | BRM | GBR | 10
+1967 Driver Standings | Mike Spence | BRM | GBR | 9
+1967 Driver Standings | John Love | Cooper Climax | RHO | 6
+1967 Driver Standings | Jochen Rindt | Cooper Maserati | AUT | 6
+1967 Driver Standings | Jo Siffert | Cooper Maserati | SUI | 6
+1967 Driver Standings | Bruce McLaren | McLaren BRM | NZL | 3
+1967 Driver Standings | Jo Bonnier | Cooper Maserati | SWE | 3
+1967 Driver Standings | Bob Anderson | Brabham Climax | GBR | 2
+1967 Driver Standings | Mike  Parkes  | Ferrari | GBR | 2
+1967 Driver Standings | Chris   Irwin | BRM | GBR | 2
+1967 Driver Standings | Ludovico Scarfiotti | Eagle Weslake | ITA | 1
+1967 Driver Standings | Guy  Ligier  | Brabham Repco | FRA | 1
+1967 Driver Standings | Jacky Ickx | Cooper Maserati | BEL | 1
+1966 Driver Standings | Jack Brabham | Brabham Repco | AUS | 42
+1966 Driver Standings | John Surtees | Cooper Maserati | GBR | 28
+1966 Driver Standings | Jochen Rindt | Cooper Maserati | AUT | 22
+1966 Driver Standings | Denny Hulme | Brabham Repco | NZL | 18
+1966 Driver Standings | Graham Hill | BRM | GBR | 17
+1966 Driver Standings | Jim Clark | Lotus BRM | GBR | 16
+1966 Driver Standings | Jackie Stewart | BRM | GBR | 14
+1966 Driver Standings | Mike  Parkes  | Ferrari | GBR | 12
+1966 Driver Standings | Lorenzo Bandini | Ferrari | ITA | 12
+1966 Driver Standings | Ludovico Scarfiotti | Ferrari | ITA | 9
+1966 Driver Standings | Richie Ginther | Honda | USA | 5
+1966 Driver Standings | Dan Gurney | Eagle Climax | USA | 4
+1966 Driver Standings | Mike Spence | Lotus BRM | GBR | 4
+1966 Driver Standings | Bob Bondurant | Eagle Weslake | USA | 3
+1966 Driver Standings | Jo Siffert | Cooper Maserati | SUI | 3
+1966 Driver Standings | Bruce McLaren | McLaren Ford | NZL | 3
+1966 Driver Standings | John  Taylor  | Brabham BRM | GBR | 1
+1966 Driver Standings | Bob Anderson | Brabham Climax | GBR | 1
+1966 Driver Standings | Peter  Arundell  | Lotus BRM | GBR | 1
+1966 Driver Standings | Jo Bonnier | Cooper Maserati | SWE | 1
+1965 Driver Standings | Jim Clark | Lotus Climax | GBR | 54
+1965 Driver Standings | Graham Hill | BRM | GBR | 40
+1965 Driver Standings | Jackie Stewart | BRM | GBR | 33
+1965 Driver Standings | Dan Gurney | Brabham Climax | USA | 25
+1965 Driver Standings | John Surtees | Ferrari | GBR | 17
+1965 Driver Standings | Lorenzo Bandini | Ferrari | ITA | 13
+1965 Driver Standings | Richie Ginther | Honda | USA | 11
+1965 Driver Standings | Mike Spence | Lotus Climax | GBR | 10
+1965 Driver Standings | Bruce McLaren | Cooper Climax | NZL | 10
+1965 Driver Standings | Jack Brabham | Brabham Climax | AUS | 9
+1965 Driver Standings | Denny Hulme | Brabham Climax | NZL | 5
+1965 Driver Standings | Jo Siffert | Brabham BRM | SUI | 5
+1965 Driver Standings | Jochen Rindt | Cooper Climax | AUT | 4
+1965 Driver Standings | Pedro Rodriguez | Ferrari | MEX | 2
+1965 Driver Standings | Ronnie Bucknum | Honda | USA | 2
+1965 Driver Standings | Richard Attwood | Lotus BRM | GBR | 2
+1964 Driver Standings | John Surtees | Ferrari | GBR | 40
+1964 Driver Standings | Graham Hill | BRM | GBR | 39
+1964 Driver Standings | Jim Clark | Lotus Climax | GBR | 32
+1964 Driver Standings | Lorenzo Bandini | Ferrari | ITA | 23
+1964 Driver Standings | Richie Ginther | BRM | USA | 23
+1964 Driver Standings | Dan Gurney | Brabham Climax | USA | 19
+1964 Driver Standings | Bruce McLaren | Cooper Climax | NZL | 13
+1964 Driver Standings | Peter  Arundell  | Lotus Climax | GBR | 11
+1964 Driver Standings | Jack Brabham | Brabham Climax | AUS | 11
+1964 Driver Standings | Jo Siffert | Brabham BRM | SUI | 7
+1964 Driver Standings | Bob Anderson | Brabham Climax | GBR | 5
+1964 Driver Standings | Tony Maggs | BRM | RSA | 4
+1964 Driver Standings | Mike Spence | Lotus Climax | GBR | 4
+1964 Driver Standings | Innes Ireland | BRP BRM | GBR | 4
+1964 Driver Standings | Jo Bonnier | Brabham Climax | SWE | 3
+1964 Driver Standings | Chris Amon | Lotus BRM | NZL | 2
+1964 Driver Standings | Maurice  Trintignant | BRM | FRA | 2
+1964 Driver Standings | Walt   Hansgen | Lotus Climax | USA | 2
+1964 Driver Standings | Mike Hailwood | Lotus BRM | GBR | 1
+1964 Driver Standings | Phil Hill | Cooper Climax | USA | 1
+1964 Driver Standings | Trevor  Taylor  | BRP BRM | GBR | 1
+1964 Driver Standings | Pedro Rodriguez | Ferrari | MEX | 1
+1963 Driver Standings | Jim Clark | Lotus Climax | GBR | 54
+1963 Driver Standings | Graham Hill | BRM | GBR | 29
+1963 Driver Standings | Richie Ginther | BRM | USA | 29
+1963 Driver Standings | John Surtees | Ferrari | GBR | 22
+1963 Driver Standings | Dan Gurney | Brabham Climax | USA | 19
+1963 Driver Standings | Bruce McLaren | Cooper Climax | NZL | 17
+1963 Driver Standings | Jack Brabham | Brabham Climax | AUS | 14
+1963 Driver Standings | Tony Maggs | Cooper Climax | RSA | 9
+1963 Driver Standings | Innes Ireland | BRP BRM | GBR | 6
+1963 Driver Standings | Lorenzo Bandini | Ferrari | ITA | 6
+1963 Driver Standings | Jo Bonnier | Cooper Climax | SWE | 6
+1963 Driver Standings | Gerhard Mitter | Porsche | GER | 3
+1963 Driver Standings | Jim  Hall  | Lotus BRM | USA | 3
+1963 Driver Standings | Carel Godin de Beaufort  | Porsche | NED | 2
+1963 Driver Standings | Trevor  Taylor  | Lotus Climax | GBR | 1
+1963 Driver Standings | Ludovico Scarfiotti | Ferrari | ITA | 1
+1963 Driver Standings | Jo Siffert | Lotus BRM | SUI | 1
+1963 Driver Standings | Willy Mairesse | Ferrari | BEL | 0
+1963 Driver Standings | Maurice  Trintignant | BRM | FRA | 0
+1963 Driver Standings | Tony  Settember  | Scirocco BRM | USA | 0
+1963 Driver Standings | Lucien Bianchi | Lola Climax | BEL | 0
+1963 Driver Standings | Phil Hill | ATS | USA | 0
+1963 Driver Standings | Giancarlo Baghetti | ATS | ITA | 0
+1963 Driver Standings | Chris Amon | Lotus BRM | NZL | 0
+1963 Driver Standings | Masten Gregory | null | USA | 0
+1963 Driver Standings | Bob Anderson | Lola Climax | GBR | 0
+1963 Driver Standings | Ian Raby | Gilby BRM | GBR | 0
+1963 Driver Standings | John  Campbell-Jones  | Lola Climax | GBR | 0
+1963 Driver Standings | Ian Burgess  | Scirocco BRM | GBR | 0
+1963 Driver Standings | Mike Hailwood | null | GBR | 0
+1963 Driver Standings | Mario  de Araujo Cabral  | Cooper Climax | POR | 0
+1963 Driver Standings | Bernard  Collomb  | Lotus Climax | FRA | 0
+1963 Driver Standings | Mike Spence | Lotus Climax | GBR | 0
+1963 Driver Standings | Peter Broeker  | Stebro Ford | CAN | 0
+1963 Driver Standings | Rodger Ward | Lotus BRM | USA | 0
+1963 Driver Standings | Pedro Rodriguez | Lotus Climax | MEX | 0
+1963 Driver Standings | Hap  Sharp  | Lotus BRM | USA | 0
+1963 Driver Standings | Moises Solana | BRM | MEX | 0
+1963 Driver Standings | Doug Serrurier | LDS Alfa Romeo | RSA | 0
+1963 Driver Standings | Trevor Blokdyk | Cooper Maserati | RSA | 0
+1963 Driver Standings | Brausch Niemann | Lotus Ford | RSA | 0
+1963 Driver Standings | John Love | Cooper Climax | RHO | 0
+1963 Driver Standings | Ernie Pieterse | Lotus Climax | RSA | 0
+1963 Driver Standings | Peter de Klerk | Alfa Romeo | RSA | 0
+1963 Driver Standings | Sam Tingle | LDS Alfa Romeo | RHO | 0
+1963 Driver Standings | David Prophet | Brabham Ford | GBR | 0
+1962 Driver Standings | Graham Hill | BRM | GBR | 42
+1962 Driver Standings | Jim Clark | Lotus Climax | GBR | 30
+1962 Driver Standings | Bruce McLaren | Cooper Climax | NZL | 27
+1962 Driver Standings | John Surtees | Lola Climax | GBR | 19
+1962 Driver Standings | Dan Gurney | Porsche | USA | 15
+1962 Driver Standings | Phil Hill | Ferrari | USA | 14
+1962 Driver Standings | Tony Maggs | Cooper Climax | RSA | 13
+1962 Driver Standings | Richie Ginther | BRM | USA | 10
+1962 Driver Standings | Jack Brabham | Brabham Climax | AUS | 9
+1962 Driver Standings | Trevor  Taylor  | Lotus Climax | GBR | 6
+1962 Driver Standings | Giancarlo Baghetti | Ferrari | ITA | 5
+1962 Driver Standings | Lorenzo Bandini | Ferrari | ITA | 4
+1962 Driver Standings | Ricardo  Rodriguez  | Ferrari | MEX | 4
+1962 Driver Standings | Willy Mairesse | Ferrari | BEL | 3
+1962 Driver Standings | Jo Bonnier | Porsche | SWE | 3
+1962 Driver Standings | Innes Ireland | Lotus Climax | GBR | 2
+1962 Driver Standings | Carel Godin de Beaufort  | Porsche | NED | 2
+1962 Driver Standings | Masten Gregory | Lotus BRM | USA | 1
+1962 Driver Standings | Neville Lederle | Lotus Climax | RSA | 1
+1961 Driver Standings | Phil Hill | Ferrari | USA | 34
+1961 Driver Standings | Wolfgang von Trips | Ferrari | GER | 33
+1961 Driver Standings | Stirling Moss | Lotus Climax | GBR | 21
+1961 Driver Standings | Dan Gurney | Porsche | USA | 21
+1961 Driver Standings | Richie Ginther | Ferrari | USA | 16
+1961 Driver Standings | Innes Ireland | Lotus Climax | GBR | 12
+1961 Driver Standings | Jim Clark | Lotus Climax | GBR | 11
+1961 Driver Standings | Bruce McLaren | Cooper Climax | NZL | 11
+1961 Driver Standings | Giancarlo Baghetti | Ferrari | ITA | 9
+1961 Driver Standings | Tony Brooks | BRM Climax | GBR | 6
+1961 Driver Standings | Jack Brabham | Cooper Climax | AUS | 4
+1961 Driver Standings | John Surtees | Cooper Climax | GBR | 4
+1961 Driver Standings | Olivier  Gendebien | Lotus Climax | BEL | 3
+1961 Driver Standings | Jackie  Lewis  | Cooper Climax | GBR | 3
+1961 Driver Standings | Jo Bonnier | Porsche | SWE | 3
+1961 Driver Standings | Graham Hill | BRM Climax | GBR | 3
+1961 Driver Standings | Roy Salvadori | Cooper Climax | GBR | 2
+1960 Driver Standings | Jack Brabham | Cooper Climax | AUS | 43
+1960 Driver Standings | Bruce McLaren | Cooper Climax | NZL | 34
+1960 Driver Standings | Stirling Moss | Lotus Climax | GBR | 19
+1960 Driver Standings | Innes Ireland | Lotus Climax | GBR | 18
+1960 Driver Standings | Phil Hill | Cooper Climax | USA | 16
+1960 Driver Standings | Olivier  Gendebien | Cooper Climax | BEL | 10
+1960 Driver Standings | Wolfgang von Trips | Cooper Maserati | GER | 10
+1960 Driver Standings | Jim Rathmann | Watson Offenhauser | USA | 8
+1960 Driver Standings | Richie Ginther | Ferrari | USA | 8
+1960 Driver Standings | Jim Clark | Lotus Climax | GBR | 8
+1960 Driver Standings | Tony Brooks | Cooper Climax | GBR | 7
+1960 Driver Standings | Cliff Allison | Ferrari | GBR | 6
+1960 Driver Standings | Rodger Ward | Watson Offenhauser | USA | 6
+1960 Driver Standings | John Surtees | Lotus Climax | GBR | 6
+1960 Driver Standings | Paul Goldsmith | Epperly Offenhauser | USA | 4
+1960 Driver Standings | Graham Hill | BRM | GBR | 4
+1960 Driver Standings | Willy Mairesse | Ferrari | BEL | 4
+1960 Driver Standings | Jo Bonnier | BRM | SWE | 4
+1960 Driver Standings | Carlos Menditeguy | Cooper Maserati | ARG | 3
+1960 Driver Standings | Don  Branson | Phillips Offenhauser | USA | 3
+1960 Driver Standings | Henry Taylor | Cooper Climax | GBR | 3
+1960 Driver Standings | Giulio Cabianca | Cooper Castellotti | ITA | 3
+1960 Driver Standings | Johnny Thomson | Lesovsky Offenhauser | USA | 2
+1960 Driver Standings | Eddie Johnson | Trevis Offenhauser | USA | 1
+1960 Driver Standings | Lucien Bianchi | Cooper Climax | BEL | 1
+1960 Driver Standings | Ron Flockhart | Cooper Climax | GBR | 1
+1960 Driver Standings | Hans  Herrmann | Porsche | GER | 1
+1959 Driver Standings | Jack Brabham | Cooper Climax | AUS | 31
+1959 Driver Standings | Tony Brooks | Ferrari | GBR | 27
+1959 Driver Standings | Stirling Moss | Cooper Climax | GBR | 25.5
+1959 Driver Standings | Phil Hill | Ferrari | USA | 20
+1959 Driver Standings | Maurice  Trintignant | Cooper Climax | FRA | 19
+1959 Driver Standings | Bruce McLaren | Cooper Climax | NZL | 16.5
+1959 Driver Standings | Dan Gurney | Ferrari | USA | 13
+1959 Driver Standings | Jo Bonnier | BRM | SWE | 10
+1959 Driver Standings | Masten Gregory | Cooper Climax | USA | 10
+1959 Driver Standings | Rodger Ward | Kurtis Kraft Offenhauser | USA | 8
+1959 Driver Standings | Jim Rathmann | Watson Offenhauser | USA | 6
+1959 Driver Standings | Johnny Thomson | Lesovsky Offenhauser | USA | 5
+1959 Driver Standings | Innes Ireland | Lotus Climax | GBR | 5
+1959 Driver Standings | Harry Schell | Cooper Climax | USA | 5
+1959 Driver Standings | Tony  Bettenhausen | Epperly Offenhauser | USA | 3
+1959 Driver Standings | Olivier  Gendebien | Ferrari | BEL | 3
+1959 Driver Standings | Paul Goldsmith | Epperly Offenhauser | USA | 2
+1959 Driver Standings | Jean Behra | Ferrari | FRA | 2
+1959 Driver Standings | Cliff Allison | Ferrari | GBR | 2
+1958 Driver Standings | Mike Hawthorn | Ferrari | GBR | 42
+1958 Driver Standings | Stirling Moss | Vanwall | GBR | 41
+1958 Driver Standings | Tony Brooks | Vanwall | GBR | 24
+1958 Driver Standings | Roy Salvadori | Cooper Climax | GBR | 15
+1958 Driver Standings | Peter Collins | Ferrari | GBR | 14
+1958 Driver Standings | Harry Schell | BRM | USA | 14
+1958 Driver Standings | Maurice  Trintignant | Cooper Climax | FRA | 12
+1958 Driver Standings | Luigi Musso | Ferrari | ITA | 12
+1958 Driver Standings | Stuart  Lewis-Evans  | Vanwall | GBR | 11
+1958 Driver Standings | Phil Hill | Ferrari | USA | 9
+1958 Driver Standings | Jean Behra | BRM | FRA | 9
+1958 Driver Standings | Wolfgang von Trips | Ferrari | GER | 9
+1958 Driver Standings | Jimmy Bryan | Epperly Offenhauser | USA | 8
+1958 Driver Standings | Juan Manuel Fangio | Maserati | ARG | 7
+1958 Driver Standings | George  Amick | Epperly Offenhauser | USA | 6
+1958 Driver Standings | Tony  Bettenhausen | Epperly Offenhauser | USA | 4
+1958 Driver Standings | Johnny  Boyd | Kurtis Kraft Offenhauser | USA | 4
+1958 Driver Standings | Jack Brabham | Cooper Climax | AUS | 3
+1958 Driver Standings | Cliff Allison | Lotus Climax | GBR | 3
+1958 Driver Standings | Jo Bonnier | BRM | SWE | 3
+1958 Driver Standings | Jim Rathmann | Epperly Offenhauser | USA | 2
+1957 Driver Standings | Juan Manuel Fangio | Maserati | ARG | 40
+1957 Driver Standings | Stirling Moss | Vanwall | GBR | 25
+1957 Driver Standings | Luigi Musso | Ferrari | ITA | 16
+1957 Driver Standings | Mike Hawthorn | Ferrari | GBR | 13
+1957 Driver Standings | Tony Brooks | Vanwall | GBR | 11
+1957 Driver Standings | Masten Gregory | Maserati | USA | 10
+1957 Driver Standings | Harry Schell | Maserati | USA | 10
+1957 Driver Standings | Sam Hanks | Epperly Offenhauser | USA | 8
+1957 Driver Standings | Peter Collins | Ferrari | GBR | 8
+1957 Driver Standings | Jim Rathmann | Epperly Offenhauser | USA | 7
+1957 Driver Standings | Jean Behra | Maserati | FRA | 6
+1957 Driver Standings | Stuart  Lewis-Evans  | Vanwall | GBR | 5
+1957 Driver Standings | Maurice  Trintignant | Ferrari | FRA | 5
+1957 Driver Standings | Carlos Menditeguy | Maserati | ARG | 4
+1957 Driver Standings | Jimmy Bryan | Kuzma Offenhauser | USA | 4
+1957 Driver Standings | Wolfgang von Trips | Ferrari | GER | 4
+1957 Driver Standings | Paul Russo | Kurtis Kraft Novi | USA | 3
+1957 Driver Standings | Andy Linden | Kurtis Kraft Offenhauser | USA | 2
+1957 Driver Standings | Roy Salvadori | Cooper Climax | GBR | 2
+1957 Driver Standings | Alfonso de Portago  | Ferrari | ESP | 1
+1957 Driver Standings | Jose Froilan Gonzalez | Ferrari | ARG | 1
+1957 Driver Standings | Giorgio  Scarlatti  | Maserati | ITA | 1
+1956 Driver Standings | Juan Manuel Fangio | Ferrari | ARG | 30
+1956 Driver Standings | Stirling Moss | Maserati | GBR | 27
+1956 Driver Standings | Peter Collins | Ferrari | GBR | 25
+1956 Driver Standings | Jean Behra | Maserati | FRA | 22
+1956 Driver Standings | Pat Flaherty | Watson Offenhauser | USA | 8
+1956 Driver Standings | Eugenio Castellotti | Ferrari | ITA | 7.5
+1956 Driver Standings | Sam Hanks | Kurtis Kraft Offenhauser | USA | 6
+1956 Driver Standings | Paul Frere | Ferrari | BEL | 6
+1956 Driver Standings | Paco  Godia | Maserati | ESP | 6
+1956 Driver Standings | Jack  Fairman | Connaught Alta | GBR | 5
+1956 Driver Standings | Mike Hawthorn | BRM | GBR | 4
+1956 Driver Standings | Luigi Musso | Ferrari | ITA | 4
+1956 Driver Standings | Don  Freeland | Phillips Offenhauser | USA | 4
+1956 Driver Standings | Ron Flockhart | Connaught Alta | GBR | 4
+1956 Driver Standings | Johnnie  Parsons | Kuzma Offenhauser | USA | 3
+1956 Driver Standings | Harry Schell | Vanwall | USA | 3
+1956 Driver Standings | Alfonso de Portago  | Ferrari | ESP | 3
+1956 Driver Standings | Cesare Perdisa | Maserati | ITA | 3
+1956 Driver Standings | Olivier  Gendebien | Ferrari | BEL | 2
+1956 Driver Standings | Hermano da Silva Ramos | Gordini | BRA | 2
+1956 Driver Standings | Dick Rathmann | Kurtis Kraft Offenhauser | USA | 2
+1956 Driver Standings | Luigi  Villoresi | Maserati | ITA | 2
+1956 Driver Standings | Horace  Gould  | Maserati | GBR | 2
+1956 Driver Standings | Louis  Rosier | Maserati | FRA | 2
+1956 Driver Standings | Gerino  Gerini  | Maserati | ITA | 1.5
+1956 Driver Standings | Chico Landi | Maserati | BRA | 1.5
+1956 Driver Standings | Paul Russo | Kurtis Kraft Novi | USA | 1
+1955 Driver Standings | Juan Manuel Fangio | Mercedes-Benz | ARG | 40
+1955 Driver Standings | Stirling Moss | Mercedes-Benz | GBR | 23
+1955 Driver Standings | Eugenio Castellotti | Ferrari | ITA | 12
+1955 Driver Standings | Maurice  Trintignant | Ferrari | FRA | 11.3
+1955 Driver Standings | Nino Farina | Ferrari | ITA | 10.3
+1955 Driver Standings | Piero  Taruffi | Mercedes-Benz | ITA | 9
+1955 Driver Standings | Bob Sweikert | Kurtis Kraft Offenhauser | USA | 8
+1955 Driver Standings | Roberto Mieres | Maserati | ARG | 7
+1955 Driver Standings | Luigi Musso | Maserati | ITA | 6
+1955 Driver Standings | Jean Behra | Maserati | FRA | 6
+1955 Driver Standings | Karl Kling | Mercedes-Benz | GER | 5
+1955 Driver Standings | Jimmy Davies | Kurtis Kraft Offenhauser | USA | 4
+1955 Driver Standings | Paul Russo | Kurtis Kraft Offenhauser | USA | 3
+1955 Driver Standings | Tony  Bettenhausen | Kurtis Kraft Offenhauser | USA | 3
+1955 Driver Standings | Johnny Thomson | Kuzma Offenhauser | USA | 3
+1955 Driver Standings | Paul Frere | Ferrari | BEL | 3
+1955 Driver Standings | Jose Froilan Gonzalez | Ferrari | ARG | 2
+1955 Driver Standings | Cesare Perdisa | Maserati | ITA | 2
+1955 Driver Standings | Luigi  Villoresi | Lancia | ITA | 2
+1955 Driver Standings | Carlos Menditeguy | Maserati | ARG | 2
+1955 Driver Standings | Umberto  Maglioli | Ferrari | ITA | 1.3
+1955 Driver Standings | Hans  Herrmann | Mercedes-Benz | GER | 1
+1955 Driver Standings | Walt  Faulkner | Kurtis Kraft Offenhauser | USA | 1
+1955 Driver Standings | Bill Homeier | Kurtis Kraft Offenhauser | USA | 1
+1955 Driver Standings | Bill  Vukovich  | Kurtis Kraft Offenhauser | USA | 1
+1954 Driver Standings | Juan Manuel Fangio | Mercedes-Benz | ARG | 42
+1954 Driver Standings | Jose Froilan Gonzalez | Ferrari | ARG | 25.1
+1954 Driver Standings | Mike Hawthorn | Ferrari | GBR | 24.6
+1954 Driver Standings | Maurice  Trintignant | Ferrari | FRA | 17
+1954 Driver Standings | Karl Kling | Mercedes-Benz | GER | 12
+1954 Driver Standings | Bill  Vukovich  | Kurtis Kraft Offenhauser | USA | 8
+1954 Driver Standings | Hans  Herrmann | Mercedes-Benz | GER | 8
+1954 Driver Standings | Nino Farina | Ferrari | ITA | 6
+1954 Driver Standings | Jimmy Bryan | Kuzma Offenhauser | USA | 6
+1954 Driver Standings | Luigi Musso | Maserati | ITA | 6
+1954 Driver Standings | Roberto Mieres | Maserati | ARG | 6
+1954 Driver Standings | Jack McGrath | Kurtis Kraft Offenhauser | USA | 5
+1954 Driver Standings | Stirling Moss | Maserati | GBR | 4.1
+1954 Driver Standings | Onofre Marimon | Maserati | ARG | 4.1
+1954 Driver Standings | Robert  Manzon | Ferrari | FRA | 4
+1954 Driver Standings | Sergio Mantovani | Maserati | ITA | 4
+1954 Driver Standings | Prince Bira | Maserati | THA | 3
+1954 Driver Standings | Elie Bayol | Gordini | FRA | 2
+1954 Driver Standings | Mike Nazaruk | Kurtis Kraft Offenhauser | USA | 2
+1954 Driver Standings | Andre Pilette | Gordini | BEL | 2
+1954 Driver Standings | Luigi  Villoresi | Lancia | ITA | 2
+1954 Driver Standings | Umberto  Maglioli | Ferrari | ITA | 2
+1954 Driver Standings | Troy Ruttman | Kurtis Kraft Offenhauser | USA | 1.5
+1954 Driver Standings | Duane Carter | Kurtis Kraft Offenhauser | USA | 1.5
+1954 Driver Standings | Alberto Ascari | Lancia | ITA | 1.1
+1954 Driver Standings | Jean Behra | Gordini | FRA | 0.1
+1953 Driver Standings | Alberto Ascari | Ferrari | ITA | 34.5
+1953 Driver Standings | Juan Manuel Fangio | Maserati | ARG | 27.5
+1953 Driver Standings | Nino Farina | Ferrari | ITA | 26
+1953 Driver Standings | Mike Hawthorn | Ferrari | GBR | 19
+1953 Driver Standings | Luigi  Villoresi | Ferrari | ITA | 17
+1953 Driver Standings | Jose Froilan Gonzalez | Maserati | ARG | 13.5
+1953 Driver Standings | Bill  Vukovich  | Kurtis Kraft Offenhauser | USA | 9
+1953 Driver Standings | Toulo de Graffenried | Maserati | SUI | 7
+1953 Driver Standings | Felice  Bonetto | Maserati | ITA | 6.5
+1953 Driver Standings | Art Cross | Kurtis Kraft Offenhauser | USA | 6
+1953 Driver Standings | Onofre Marimon | Maserati | ARG | 4
+1953 Driver Standings | Maurice  Trintignant | Gordini | FRA | 4
+1953 Driver Standings | Oscar Alfredo Galvez | Maserati | ARG | 2
+1953 Driver Standings | Sam Hanks | Kurtis Kraft Offenhauser | USA | 2
+1953 Driver Standings | Duane Carter | Kurtis Kraft Offenhauser | USA | 2
+1953 Driver Standings | Jack McGrath | Kurtis Kraft Offenhauser | USA | 2
+1953 Driver Standings | Hermann Lang | Maserati | GER | 2
+1953 Driver Standings | Fred Agabashian | Kurtis Kraft Offenhauser | USA | 1.5
+1953 Driver Standings | Paul Russo | Kurtis Kraft Offenhauser | USA | 1.5
+1952 Driver Standings | Alberto Ascari | Ferrari | ITA | 36
+1952 Driver Standings | Nino Farina | Ferrari | ITA | 24
+1952 Driver Standings | Piero  Taruffi | Ferrari | ITA | 22
+1952 Driver Standings | Rudi  Fischer  | Ferrari | SUI | 10
+1952 Driver Standings | Mike Hawthorn | Cooper Bristol | GBR | 10
+1952 Driver Standings | Robert  Manzon | Gordini | FRA | 9
+1952 Driver Standings | Troy Ruttman | Kuzma Offenhauser | USA | 8
+1952 Driver Standings | Luigi  Villoresi | Ferrari | ITA | 8
+1952 Driver Standings | Jose Froilan Gonzalez | Maserati | ARG | 6.5
+1952 Driver Standings | Jim Rathmann | Kurtis Kraft Offenhauser | USA | 6
+1952 Driver Standings | Jean Behra | Gordini | FRA | 6
+1952 Driver Standings | Sam Hanks | Kurtis Kraft Offenhauser | USA | 4
+1952 Driver Standings | Ken  Wharton | null | GBR | 3
+1952 Driver Standings | Duane Carter | Lesovsky Offenhauser | USA | 3
+1952 Driver Standings | Dennis Poore | Connaught Lea Francis | GBR | 3
+1952 Driver Standings | Alan Brown | Cooper Bristol | GBR | 2
+1952 Driver Standings | Art Cross | Kurtis Kraft Offenhauser | USA | 2
+1952 Driver Standings | Paul Frere | Simca-Gordini | BEL | 2
+1952 Driver Standings | Maurice  Trintignant | Gordini | FRA | 2
+1952 Driver Standings | Eric Thompson | Connaught Lea Francis | GBR | 2
+1952 Driver Standings | Felice  Bonetto | Maserati | ITA | 2
+1952 Driver Standings | Bill  Vukovich  | Kurtis Kraft Offenhauser | USA | 1
+1951 Driver Standings | Juan Manuel Fangio | Alfa Romeo | ARG | 31
+1951 Driver Standings | Alberto Ascari | Ferrari | ITA | 25
+1951 Driver Standings | Jose Froilan Gonzalez | Ferrari | ARG | 24
+1951 Driver Standings | Nino Farina | Alfa Romeo | ITA | 19
+1951 Driver Standings | Luigi  Villoresi | Ferrari | ITA | 15
+1951 Driver Standings | Piero  Taruffi | Ferrari | ITA | 10
+1951 Driver Standings | Lee Wallard | Kurtis Kraft Offenhauser | USA | 9
+1951 Driver Standings | Felice  Bonetto | Alfa Romeo | ITA | 7
+1951 Driver Standings | Mike Nazaruk | Kurtis Kraft Offenhauser | USA | 6
+1951 Driver Standings | Reg  Parnell | BRM | GBR | 5
+1951 Driver Standings | Luigi Fagioli | Alfa Romeo | ITA | 4
+1951 Driver Standings | Consalvo  Sanesi | Alfa Romeo | ITA | 3
+1951 Driver Standings | Andy Linden | Sherman Offenhauser | USA | 3
+1951 Driver Standings | Louis  Rosier | null | FRA | 3
+1951 Driver Standings | Toulo de Graffenried | Alfa Romeo | SUI | 2
+1951 Driver Standings | Manny Ayulo | Kurtis Kraft Offenhauser | USA | 2
+1951 Driver Standings | Bobby Ball | Schroeder Offenhauser | USA | 2
+1951 Driver Standings | Jack McGrath | Kurtis Kraft Offenhauser | USA | 2
+1951 Driver Standings | Yves Giraud Cabantous | Talbot-Lago | FRA | 2
+1950 Driver Standings | Nino Farina | Alfa Romeo | ITA | 30
+1950 Driver Standings | Juan Manuel Fangio | Alfa Romeo | ARG | 27
+1950 Driver Standings | Luigi Fagioli | Alfa Romeo | ITA | 24
+1950 Driver Standings | Louis  Rosier | Talbot-Lago | FRA | 13
+1950 Driver Standings | Alberto Ascari | Ferrari | ITA | 11
+1950 Driver Standings | Johnnie  Parsons | Kurtis Kraft Offenhauser | USA | 9
+1950 Driver Standings | Bill Holland | Deidt Offenhauser | USA | 6
+1950 Driver Standings | Prince Bira | Maserati | THA | 5
+1950 Driver Standings | Reg  Parnell | Maserati | GBR | 4
+1950 Driver Standings | Louis  Chiron | Maserati | MON | 4
+1950 Driver Standings | Mauri  Rose | Deidt Offenhauser | USA | 4
+1950 Driver Standings | Peter  Whitehead | Ferrari | GBR | 4
+1950 Driver Standings | Yves Giraud Cabantous | Talbot-Lago | FRA | 3
+1950 Driver Standings | Raymond  Sommer | Talbot-Lago | FRA | 3
+1950 Driver Standings | Cecil  Green | Kurtis Kraft Offenhauser | USA | 3
+1950 Driver Standings | Robert  Manzon | Simca-Gordini | FRA | 3
+1950 Driver Standings | Dorino  Serafini | null | ITA | 3
+1950 Driver Standings | Philippe  Etancelin | null | FRA | 3
+1950 Driver Standings | Felice  Bonetto | Maserati Milano | ITA | 2
+1950 Driver Standings | Tony  Bettenhausen | Deidt Offenhauser | USA | 1
+1950 Driver Standings | Joie  Chitwood | Kurtis Kraft Offenhauser | USA | 1
+1950 Driver Standings | Eugene  Chaboud | null | FRA | 1
